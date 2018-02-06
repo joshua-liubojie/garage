@@ -1,0 +1,28 @@
+[http]
+[https]
+[user]
+	name = joshliu
+	email = 61315730@qq.com
+[core]
+	editor = gedit
+[merge]
+	tool = meld
+[color]
+	ui = auto
+[commit]
+	template = /home/joshliu/git_script/commit.template
+[alias]
+	st = status
+	co = checkout
+	br = branch
+	ci = commit
+	fm = git checkout . && git clean -fd -e cscope* -e .tags -e *sublime*
+	chp = cherry-pick
+	jcl = clean -fd -e cscope* -e .tags -e *sublime*
+[http]
+	proxy = 
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
