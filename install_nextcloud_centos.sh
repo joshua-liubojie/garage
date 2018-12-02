@@ -35,6 +35,13 @@ sudo systemctl start mariadb.service
 sudo systemctl enable mariadb.service
 sudo /usr/bin/mysql_secure_installation
 mysql -u root -p
+echo "In the MySQL shell, you need to create a database and a database user, and then grant privileges to this database user.
+Use the following commands to finish the work. Be sure to replace the database name "nextcloud", the database username "nextclouduser", and the database user password "yourpassword" in each and every command with your own ones.
+CREATE DATABASE nextcloud;
+CREATE USER 'nextclouduser'@'localhost' IDENTIFIED BY 'yourpassword';
+GRANT ALL PRIVILEGES ON nextcloud.* TO 'nextclouduser'@'localhost' IDENTIFIED BY 'yourpassword' WITH GRANT OPTION;
+FLUSH PRIVILEGES;
+EXIT;"
 }
 
 function install_nextcloud(){
@@ -58,9 +65,18 @@ sudo chown root:apache /var/www/html/.htaccess
 sudo chmod 0644 /var/www/html/data/.htaccess
 sudo chown root:apache /var/www/html/data/.htaccess
 sudo chown -R apache:apache /var/www/html/assets
+echo "Add your server IP (say it is 203.0.113.1) and domain name (say it is www.example.com) to NextCloud's trusted domains list:
+sudo vi /var/www/html/config/config.php
+Insert the following two lines right beneath it:
+1 => '203.0.113.1',
+2 => 'www.example.com',
+then:
+sudo systemctl restart httpd.service
+sudo firewall-cmd --zone=public --permanent --add-service=http
+sudo firewall-cmd --zone=public --permanent --add-service=https
+sudo firewall-cmd --reload"
 }
 
-set -e
 
 echo "Install Apache"
 read_input
