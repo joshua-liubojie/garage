@@ -44,7 +44,7 @@ sudo yum install unzip -y
 unzip nextcloud-9.0.53.zip
 sudo mv nextcloud/* /var/www/html && sudo chown apache:apache -R /var/www/html
 cd /var/www/html/
-sudo -u apache php occ maintenance:install --database "joshclouddb" --database-name "joshcloud"  --database-user "josh" --database-pass "Aa5561379" --admin-user "admin" --admin-pass "Aa5561379"
+sudo -u apache php occ maintenance:install --database "mysql" --database-name "joshcloud"  --database-user "josh" --database-pass "Aa5561379" --admin-user "admin" --admin-pass "Aa5561379"
 sudo find /var/www/html -type f -print0 | sudo xargs -0 chmod 0640
 sudo find /var/www/html -type d -print0 | sudo xargs -0 chmod 0750
 sudo chown -R root:apache /var/www/html
