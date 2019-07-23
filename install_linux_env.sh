@@ -9,12 +9,16 @@ export PATH=$PATH:/home/joshliu/Developer/depot_tools
 #export CHROMIUM_BUILDTOOLS_PATH=/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/buildtools/
 
 allcscope(){
-find . -name "*.h" -o -name "*.cc" -o -name "*.cpp" -o -name "*.java" ! -path "*test*" ! -path "*Test*" > cscope.files
+find . \( -name "*.h" -o -name "*.dart" -o -name "*.cc" -o -name "*.cpp" -o -name "*.java" \) -a \( ! -path "*test*" -a ! -path "*Test*" -a ! -name "*test*" -a ! -name "*Test*" \) > cscope.files
 cscope -Rbq -i cscope.files
 }
 
 allctags(){
-ctags -R --exclude=.git* --exclude=*test* --exclude=*Test* -f .tags
+args="-R --exclude=.git* --exclude=*test* --exclude=*Test* -f .tags"
+if [ $# != 0 ]; then
+    args="$args $*"
+fi
+ctags $args
 }
 
 so2tags(){
@@ -31,10 +35,15 @@ if [ $# == 1 ]; then
     if [ "$1" == "-c" ]; then
         adb logcat -c
     else
-        adb logcat|grep $1
+        adb logcat -v time|grep $1
+    fi
+elif [ $# == 2 ]; then
+    if [ "$1" == "-c" ]; then
+        adb logcat -c
+        adb logcat -v time|grep $2
     fi
 else
-    adb logcat
+    adb logcat -v time
 fi
 }
 
@@ -45,11 +54,22 @@ echo "telnet $local_ip $nc_port"
 nc -l $nc_port
 }
 
+make_proxy(){
+export http_proxy="http://web-proxy.tencent.com:8080/"
+export https_proxy="https://web-proxy.tencent.com:8080/"
+}
+
+clear_proxy(){
+export http_proxy=""
+export https_proxy=""
+}
+
 git_alias(){
 git config --global alias.st status
 git config --global alias.co checkout
 git config --global alias.br branch
 git config --global alias.ci commit
+git config --global alias.chp cherry-pick
 git config --global alias.jcl 'clean -fd -e cscope* -e .tags -e *sublime*'
 }
 
@@ -58,8 +78,8 @@ if [ "$1" == "reset" ]; then
   git config --global --unset http.proxy
   git config --global --unset https.proxy
 elif [ "$1" == "set" ]; then
-  git config --global http.proxy http://dev-proxy.oa.com:8080
-  git config --global https.proxy https://dev-proxy.oa.com:8080
+  git config --global http.proxy http://web-proxy.tencent.com:8080
+  git config --global https.proxy https://web-proxy.tencent.com:8080
 fi
 }
 
