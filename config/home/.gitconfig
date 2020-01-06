@@ -19,10 +19,14 @@
 	fm = git checkout . && git clean -fd -e cscope* -e .tags -e *sublime*
 	chp = cherry-pick
 	jcl = clean -fd -e cscope* -e .tags -e *sublime*
-[http]
-	proxy = 
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
 	required = true
+[http]
+[https]
+[http]
+[https]
+[http]
+[https]
