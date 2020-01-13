@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ADBView",
+		"All Autocomplete",
+		"Alternate VIM Navigation",
+		"Anaconda",
+		"ChromiumXRefs",
+		"Cscope",
+		"CTags",
+		"Dart",
+		"EasyClangComplete",
+		"ExtendedTabSwitcher",
+		"Git",
+		"GitCommitMsg",
+		"GN",
+		"HTML-CSS-JS Prettify",
+		"Material Theme",
+		"Open Search Result",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"SublimeREPL",
+		"Terminal",
+		"WordHighlight"
+	]
+}

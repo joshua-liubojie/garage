@@ -1,0 +1,4104 @@
+{
+	"folder_history":
+	[
+		"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_66/.git/hooks",
+		"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_66/blink_core",
+		"/harddisk/root/workdisk/git/dafeiji",
+		"/harddisk/root/workdisk/git/WeCarGame",
+		"/harddisk/root/workdisk/git/WeGameFramework",
+		"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_66/tbs_main",
+		"/harddisk/root/workdisk/git/weapp-package-backup",
+		"/harddisk/root/workdisk/git/WEAPP",
+		"/harddisk/root/workdisk/git/dana",
+		"/home/joshliu/桌面/美食推荐_code(1)/美食推荐_code",
+		"/workdisk/git/moss_refactor",
+		"/harddisk/root/workdisk/git/wegame",
+		"/harddisk/root/workdisk/git/webos_sdk",
+		"/harddisk/root/workdisk/git/flutter_engine",
+		"/harddisk/root/workdisk/git/blink_db_m57/blink_core",
+		"/harddisk/root/workdisk/git/Shadow",
+		"/harddisk/root/workdisk/git/WecarAppConfig",
+		"/harddisk/root/workdisk/git/blink_75/src",
+		"/harddisk/root/workdisk/git/WeCar",
+		"/workdisk/git/webos_53/blink_db_for_tbs/tbs_main",
+		"/harddisk/root/workdisk/git/moss_release/moss",
+		"/workdisk/git/flutter",
+		"/workdisk/git/WeAppFramework/src",
+		"/workdisk/git/moss_release/moss",
+		"/harddisk/root/workdisk/git/moss/tbs_main",
+		"/harddisk/root/workdisk/git/node",
+		"/home/joshliu/桌面/Wave-Israel PTT/assets/www",
+		"/home/joshliu/桌面/Wave-Israel PTT/assets/www/app",
+		"/workdisk/git/react-native",
+		"/harddisk/root/workdisk/git/flutter_repo/flutter",
+		"/harddisk/root/workdisk/git/flutter_repo/engine/src",
+		"/harddisk/root/workdisk/git/webos_53/blink_db_for_tbs/tbs_main",
+		"/harddisk/root/workdisk/git/HelloDaemon",
+		"/harddisk/root/workdisk/git/android-JobScheduler",
+		"/harddisk/root/workdisk/git/Hello-Daemon",
+		"/harddisk/root/workdisk/git/moss/moss",
+		"/workdisk/git/hippy_android",
+		"/workdisk/git/moss/moss/wecarSpeech_Dingdang",
+		"/workdisk/git/blink_db_2.0/blink_core",
+		"/workdisk/git/moss/tbs_main",
+		"/harddisk/root/workdisk/git/moss/blink_core",
+		"/workdisk/git/blink_db_for_tbs_for_chromium_66/blink_core",
+		"/harddisk/root/workdisk/git/v8",
+		"/harddisk/root/workdisk/git/blink_db_2.0/blink_core/lib",
+		"/home/joshliu/桌面/PackageDumper/DumpSrc/_1123949441_143.wxapkg",
+		"/harddisk/root/workdisk/git/57cleanblink/blink_db_for_tbs_for_chromium_57/tbs_main",
+		"/harddisk/root/workdisk/git/57cleanblink/blink_db_for_tbs_for_chromium_57/blink_core",
+		"/harddisk/root/workdisk/git/dom-distiller",
+		"/harddisk/root/workdisk/git/carqb_demo_8.5/QQBrowser_X5/SubProject/WEAPP",
+		"/harddisk/root/workdisk/git/react-native",
+		"/harddisk/root/workdisk/git/vue",
+		"/harddisk/root/workdisk/git/carqb_demo_8.5/QQBrowser_X5/SubProject/FrontierBusiness/WeApp",
+		"/workdisk/git/carqb_demo_8.5/QQBrowser_X5/SubProject/WEAPP",
+		"/workdisk/git/57cleanblink_2/blink_core",
+		"/workdisk/git/57cleanblink/blink_db_for_tbs_for_chromium_57/blink_core",
+		"/harddisk/root/workdisk/git/skia",
+		"/harddisk/root/workdisk/git/webos_53/blink_db_for_tbs",
+		"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_57/QQBrowser_X5",
+		"/workdisk/git/blink_db_for_tbs_for_chromium_66/blink_core/lib",
+		"/harddisk/root/workdisk/git/avs-device-sdk",
+		"/workdisk/git/SmartBoxSearchBase.jce.java/SmartBoxSearchBase.jce.java/SmartBoxSearchBase.jce.java",
+		"/workdisk/git/carqb_demo/QQBrowser_X5",
+		"/harddisk/root/workdisk/git/weapp_demo/blink_core/lib/chromium_org/third_party/WebKit",
+		"/workdisk/git/search",
+		"/harddisk/root/workdisk/git/weapp_demo/blink_core/QQBrowser_core",
+		"/harddisk/root/workdisk/git/weapp_demo/blink_core/lib",
+		"/workdisk/git/weapp_demo/QQBrowser_X5",
+		"/harddisk/root/workdisk/git/weapp_demo",
+		"/workdisk/git/blink_db_for_tbs_for_chromium_57/QQBrowser_X5",
+		"/workdisk/git/QQBrowser_X5_FrontierBusiness",
+		"/harddisk/root/workdisk/git/tapp_framework",
+		"/harddisk/root/workdisk/git/tbsapp_framework",
+		"/workdisk/git/blink_db_for_tbs/blink_db_for_tbs",
+		"/harddisk/root/workdisk/git/flutter_repo",
+		"/harddisk/root/workdisk/git/tbs-devtools-project",
+		"/harddisk/root/workdisk/git/webgl-insight",
+		"/workdisk/git/tbs-insight/linux-inspector/nwjs-sdk-v0.13.0-rc1-linux-x64",
+		"/workdisk/git/linux-inspector/linux-inspector/nwjs-sdk-v0.13.0-rc1-linux-x64/app/insight/src",
+		"/workdisk/git/linux-inspector/linux-inspector/nwjs-sdk-v0.13.0-rc1-linux-x64/app",
+		"/workdisk/git/ShaderEditorExtension",
+		"/workdisk/git/linux-inspector/linux-inspector/nwjs-sdk-v0.13.0-rc1-linux-x64/app/insight",
+		"/harddisk/root/workdisk/git/insight",
+		"/workdisk/git/tbs-devtools-inspector/x5Inspector/extensions/fee3b02ba8ef9619bd3c28ad40ab2e3d761c06d1_dev",
+		"/workdisk/git/tbs-devtools-inspector/x5Inspector",
+		"/harddisk/root/workdisk/git/WebGL-Inspector",
+		"/workdisk/git/linux-inspector/linux-inspector/nwjs-sdk-v0.13.0-rc1-linux-x64/app/x5/extensions/fee3b02ba8ef9619bd3c28ad40ab2e3d761c06d1",
+		"/ssd/git/blink_db_for_tbs/blink_db_for_tbs",
+		"/workdisk/git/blink_db_2.0",
+		"/workdisk/git/blink_db_for_tbs_for_chromium_57",
+		"/ssd_workdisk/svn/blink_tms/blink_db_6.6.1_release_forTMS/blink_core",
+		"/ssd_workdisk/svn/blink_tbs/__ForDB_TBS_BLINK_TRUNK/blink_core"
+	],
+	"last_version": 3176,
+	"last_window_id": 485,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 508.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"final_lo",
+						"final_log_path_\tabc"
+					],
+					[
+						"histo",
+						"histogram\t(http_network_transaction.cc)"
+					],
+					[
+						"socket_f",
+						"socket_fd_\tabc"
+					],
+					[
+						"stack_tr",
+						"stack_trace.h"
+					],
+					[
+						"event_log",
+						"event_set_log_callback"
+					],
+					[
+						"NetL",
+						"NetLogWithSource\t(http_cache_transaction.cc)"
+					],
+					[
+						"CronetURL",
+						"CronetURLRequestContextAdapter\tabc"
+					],
+					[
+						"network_changed_ob",
+						"network_changed_observer_list_\tabc"
+					],
+					[
+						"OnNetworkC",
+						"OnNetworkChanged\tabc"
+					],
+					[
+						"NetworQ",
+						"NetworkQualityEstimator\tabc"
+					],
+					[
+						"NQEstima",
+						"NetworkQualityEstimator\tabc"
+					],
+					[
+						"CronetConte",
+						"CronetURLRequestContext"
+					],
+					[
+						"CroUCon",
+						"CronetURLRequestContext"
+					],
+					[
+						"ANDROID_LOG",
+						"ANDROID_LOG_ERROR"
+					],
+					[
+						"Syste",
+						"System.currentTimeMillis\t(WatchDog.java)"
+					],
+					[
+						"DE",
+						"DEBUG\t(WordSegmentClient.java)"
+					],
+					[
+						"Weapp",
+						"WeAppTask"
+					],
+					[
+						"COMMON_CAC",
+						"COMMON_CACHE_NAME"
+					],
+					[
+						"constru",
+						"construction"
+					],
+					[
+						"networ",
+						"networkResponse"
+					],
+					[
+						"string",
+						"stringify"
+					],
+					[
+						"isBind",
+						"isBinderAlive"
+					],
+					[
+						"mMo",
+						"mMossService"
+					],
+					[
+						"mMoss",
+						"mMossService\t(MossDispatcher.java)"
+					],
+					[
+						"netwo",
+						"networkResponse"
+					],
+					[
+						"WeApp",
+						"WeAppTrace"
+					],
+					[
+						"enct",
+						"encryptedData"
+					],
+					[
+						"getBase",
+						"getBaseCarInfo"
+					],
+					[
+						"getBsae",
+						"getBaseCarInfo"
+					],
+					[
+						"equ",
+						"equal_range"
+					],
+					[
+						"size",
+						"size_t"
+					],
+					[
+						"unor",
+						"unordered_map"
+					],
+					[
+						"iter",
+						"iterator"
+					],
+					[
+						"clean",
+						"clean_map"
+					],
+					[
+						"beg",
+						"begin"
+					],
+					[
+						"empal",
+						"emplace_back"
+					],
+					[
+						"auth",
+						"authorize"
+					],
+					[
+						"pri",
+						"private"
+					],
+					[
+						"Appen",
+						"AppendSwitch"
+					],
+					[
+						"tool",
+						"toolchain"
+					],
+					[
+						"CompileUn",
+						"CompileUnboundInternal"
+					],
+					[
+						"V8Con",
+						"V8ConsoleAPIType"
+					],
+					[
+						"iso",
+						"isolate_"
+					],
+					[
+						"g_zone",
+						"g_v8_zone_memory_size_"
+					],
+					[
+						"v8_",
+						"g_v8_zone_memory_count_"
+					],
+					[
+						"g_v",
+						"g_v8_memory_count_"
+					],
+					[
+						"g_vzone",
+						"g_v8_zone_memory_size_"
+					],
+					[
+						"RTI",
+						"RenderThreadImpl"
+					],
+					[
+						"Tencent",
+						"TencentAwContent"
+					],
+					[
+						"webcontent",
+						"web_contents_impl.h"
+					],
+					[
+						"bro",
+						"browser_view_renderer_"
+					],
+					[
+						"Sche",
+						"ScheduledTasks"
+					],
+					[
+						"rast",
+						"raster_source_"
+					],
+					[
+						"visi",
+						"visible"
+					],
+					[
+						"layer",
+						"layer_id_"
+					],
+					[
+						"content_s",
+						"contents_scale_"
+					],
+					[
+						"Ras",
+						"RasterTaskImpl"
+					],
+					[
+						"process",
+						"processes"
+					],
+					[
+						"ximalaya",
+						"ximalaya.wxapkg"
+					],
+					[
+						"WeAP",
+						"WeAppTrace\t(WeappEngine.java)"
+					],
+					[
+						"getWeb",
+						"getWebViewID"
+					],
+					[
+						"contain",
+						"containInvisibleNode"
+					],
+					[
+						"nex",
+						"nextNode"
+					],
+					[
+						"cu",
+						"currentNode"
+					],
+					[
+						"scroll",
+						"scrollTop"
+					],
+					[
+						"ty",
+						"typeof"
+					],
+					[
+						"ele",
+						"element"
+					],
+					[
+						"navi",
+						"navigateTo"
+					],
+					[
+						"getStr",
+						"getStrParam"
+					],
+					[
+						"Xima",
+						"XimaAudioControllerNode"
+					],
+					[
+						"paren",
+						"parentNode"
+					],
+					[
+						"vN",
+						"vNodeList"
+					],
+					[
+						"cons",
+						"constructor"
+					],
+					[
+						"WeAppengin",
+						"WeappEngine"
+					],
+					[
+						"wx-video-contro",
+						"wx-video-control-button"
+					],
+					[
+						"target",
+						"targetNode"
+					],
+					[
+						"current",
+						"currentTimeMillis"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"func",
+						"function"
+					],
+					[
+						"tar",
+						"targetNode"
+					],
+					[
+						"Tbs",
+						"TbsProjectPath\t(build_properties.xml)"
+					],
+					[
+						"bool",
+						"boolean"
+					],
+					[
+						"User",
+						"UserDataManager"
+					],
+					[
+						"isnightmo",
+						"isNightModeEnabled"
+					],
+					[
+						"isNightmo",
+						"isNightModeEnabled"
+					],
+					[
+						"isV",
+						"isVisible\t(Page.h)"
+					],
+					[
+						"isLoc",
+						"isLocalFrame\t(WebExtension.cpp)"
+					],
+					[
+						"TECNENT",
+						"TENCENT_CHANGES\t(WebExtension.cpp)"
+					],
+					[
+						"logg",
+						"logging.h\t(WebExtension.cpp)"
+					],
+					[
+						"TE",
+						"TENCENT_CHANGES\t(WebExtension.cpp)"
+					],
+					[
+						"Recei",
+						"ReceiveTraceChunk"
+					],
+					[
+						"ENABLE_",
+						"ENABLE_TENCENT\t(WebExtension.cpp)"
+					],
+					[
+						"IPC_",
+						"IPC_MESSAGE_ROUTED2"
+					],
+					[
+						"contents_t",
+						"content_top_offset"
+					],
+					[
+						"capture_",
+						"capture_every_nth_frame_\t(page_handler.cc)"
+					],
+					[
+						"firs",
+						"firstStack"
+					],
+					[
+						"secon",
+						"second\t(page_handler.cc)"
+					],
+					[
+						"Text",
+						"TextureArg"
+					],
+					[
+						"getText",
+						"getTexture"
+					],
+					[
+						"getTe",
+						"getTextureSource"
+					],
+					[
+						"m_text",
+						"m_textures"
+					],
+					[
+						"m_tex",
+						"m_textures"
+					],
+					[
+						"kw",
+						"kWatchedBoolStates"
+					],
+					[
+						"V8E",
+						"V8WebGLRenderingContextConstants"
+					],
+					[
+						"siz",
+						"size_t"
+					],
+					[
+						"webglrend",
+						"WebGLRenderbuffer"
+					],
+					[
+						"val",
+						"validateObject"
+					],
+					[
+						"renderbu",
+						"renderbuffer"
+					],
+					[
+						"m_rend",
+						"m_renderbuffers"
+					],
+					[
+						"renderbuf",
+						"renderbuffer"
+					],
+					[
+						"Append",
+						"Append"
+					],
+					[
+						"getshad",
+						"getShaderSources"
+					],
+					[
+						"kwat",
+						"kWatchedUnsignedStates"
+					],
+					[
+						"kwa",
+						"kWatchedUnsignedStates"
+					],
+					[
+						"Gc3",
+						"GC3D_UNPACK_PREMULTIPLY_ALPHA_WEBGL"
+					],
+					[
+						"GC3D",
+						"GC3D_UNPACK_FLIP_Y_WEBGL"
+					],
+					[
+						"getun",
+						"getUnsignedIntParameter"
+					],
+					[
+						"getbo",
+						"getBooleanParameter"
+					],
+					[
+						"getBo",
+						"getBooleanStates"
+					],
+					[
+						"AppendS",
+						"AppendStrings"
+					],
+					[
+						"stateTra",
+						"stateTracker().toggle"
+					],
+					[
+						"programU",
+						"programUsageCounter().reset"
+					],
+					[
+						"vie",
+						"viewport\t(ContentViewCore.java)"
+					],
+					[
+						"m_ble",
+						"m_blendFuncSFactor"
+					],
+					[
+						"m_blen",
+						"m_blendFuncDFactor"
+					],
+					[
+						"m_program",
+						"m_programsMap"
+					],
+					[
+						"ov",
+						"overrides\t(ContentViewCore.java)"
+					],
+					[
+						"startac",
+						"startAccessibilityIfNecessary"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 184.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"git log cu",
+						"Git: Log Current File"
+					],
+					[
+						"git check",
+						"Git: Checkout Current File"
+					],
+					[
+						"git diff cu",
+						"Git: Diff Current File"
+					],
+					[
+						"git dif",
+						"Git: Diff All Files"
+					],
+					[
+						"git diffal",
+						"Git: Diff All Files"
+					],
+					[
+						"git dif c",
+						"Git: Diff Current File"
+					],
+					[
+						"git difc",
+						"Git: Diff Current File"
+					],
+					[
+						"git diff all",
+						"Git: Diff All Files"
+					],
+					[
+						"git diffall",
+						"Git: Diff All Files"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"intsa",
+						"Package Control: Install Package"
+					],
+					[
+						"git instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"git show",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git c",
+						"Git: Checkout Current File"
+					],
+					[
+						"git diff",
+						"Git: Diff Current File (Ignore Whitespace)"
+					],
+					[
+						"git diff al",
+						"Git: Diff All Files"
+					],
+					[
+						"git checkou",
+						"Git: Checkout Current File"
+					],
+					[
+						"git add ",
+						"Git: Add Current File"
+					],
+					[
+						"git diffa",
+						"Git: Diff All Files"
+					],
+					[
+						"git add cu",
+						"Git: Add Current File"
+					],
+					[
+						"git log",
+						"Git: Log Current File"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						"git blame",
+						"Git: Blame"
+					],
+					[
+						"git ",
+						"Git: Gitk"
+					],
+					[
+						"git d",
+						"Git: Diff All Files"
+					],
+					[
+						"git diffc",
+						"Git: Diff Current File"
+					],
+					[
+						"git checkout",
+						"Git: Checkout Current File"
+					],
+					[
+						"git diffcu",
+						"Git: Diff Current File"
+					],
+					[
+						"git di",
+						"Git: Diff All Files"
+					],
+					[
+						"git blam",
+						"Git: Blame"
+					],
+					[
+						"git log ",
+						"Git: Log Current File"
+					],
+					[
+						"git diff cue",
+						"Git: Diff Current File"
+					],
+					[
+						"git log c",
+						"Git: Log Current File"
+					],
+					[
+						"git add  cu",
+						"Git: Add Current File"
+					],
+					[
+						"git version",
+						"Git: Show Previous Version of Current File"
+					],
+					[
+						"gitcheck",
+						"Git: Checkout Current File"
+					],
+					[
+						"git shos",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git statu",
+						"Git: Status"
+					],
+					[
+						"git lo",
+						"Git: Log Current File"
+					],
+					[
+						"adbl",
+						"ADB: Launch"
+					],
+					[
+						"git checkout ",
+						"Git: Checkout Current File"
+					],
+					[
+						"gi tdiff cu",
+						"Git: Diff Current File"
+					],
+					[
+						"adb",
+						"ADB: Launch"
+					],
+					[
+						"git diff ",
+						"Git: Diff All Files"
+					],
+					[
+						"show",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git hash",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git diff cur",
+						"Git: Diff Current File"
+					],
+					[
+						"git l",
+						"Git: Log All"
+					],
+					[
+						"showhas",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git show ",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git show has",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git checkou ",
+						"Git: Checkout Current File"
+					],
+					[
+						"adb ",
+						"ADB: Launch"
+					],
+					[
+						"git stag",
+						"Git: Diff Staged Files"
+					],
+					[
+						"git ch",
+						"Git: Checkout Current File"
+					],
+					[
+						"git dif cu",
+						"Git: Diff Current File"
+					],
+					[
+						"gi t diff cu",
+						"Git: Diff Tool Current File"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"adblo",
+						"Dart: Set Default User Browser"
+					],
+					[
+						"git diff sta",
+						"Git: Diff Staged Files"
+					],
+					[
+						"git diff stat",
+						"Git: Diff Staged Files (Ignore Whitespace)"
+					],
+					[
+						"ad",
+						"ADB: Launch"
+					],
+					[
+						"git sta",
+						"Git: Diff Staged Files"
+					],
+					[
+						"git addc",
+						"Git: Add Current File"
+					],
+					[
+						"git diff cure",
+						"Git: Diff Current File"
+					],
+					[
+						"git addcu",
+						"Git: Add Current File"
+					],
+					[
+						"git df",
+						"Git: Diff All Files"
+					],
+					[
+						"git diff curre",
+						"Git: Diff Current File"
+					],
+					[
+						"git current",
+						"Git: Show Previous Version of Current File"
+					],
+					[
+						"abb",
+						"Set Syntax: Android Debug Bridge"
+					],
+					[
+						"git stae",
+						"Git: Diff Staged Files"
+					],
+					[
+						"staged",
+						"Git: Diff Staged Files"
+					],
+					[
+						"git add sk",
+						"Git: Add Selected Hunk"
+					],
+					[
+						"git diff st",
+						"Git: Diff Staged Files"
+					],
+					[
+						"gitadd",
+						"Git: Add..."
+					],
+					[
+						"a",
+						"ADB: Launch"
+					],
+					[
+						"git commit cu",
+						"Git: Quick Commit (current file)"
+					],
+					[
+						"git  log ",
+						"Git: Log Current File"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"diable",
+						"Package Control: Disable Package"
+					],
+					[
+						"git s",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git has",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"list p",
+						"Package Control: List Packages"
+					],
+					[
+						"gitshow",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"gitshow ",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git log r",
+						"Git: Log Current File"
+					],
+					[
+						"git commit ",
+						"Git: Commit"
+					],
+					[
+						"git quic log",
+						"Git: Quick Log Current File"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"git logcu",
+						"Git: Log Current File"
+					],
+					[
+						"git commi",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git showcom",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git showco",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git logc",
+						"Git: Log Current File"
+					],
+					[
+						"gitcommitb",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git commiy",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insl",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Disable Package"
+					],
+					[
+						":f",
+						":$ - EOF"
+					],
+					[
+						"keybi",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"ket",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						":4",
+						"Set Syntax: camlp4"
+					],
+					[
+						":0",
+						":0 - BOF"
+					],
+					[
+						"ke",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"wor",
+						"WordHighlight: Toggle Enabled"
+					],
+					[
+						"cscop",
+						"Cscope: Look up functions calling this function"
+					],
+					[
+						"listp",
+						"Package Control: List Packages"
+					],
+					[
+						"terminal",
+						"Preferences: Terminal Key Bindings – Default"
+					],
+					[
+						"",
+						":$ - EOF"
+					],
+					[
+						"packagecontins",
+						"Package Control: Install Package"
+					],
+					[
+						"control",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 488.0
+			},
+			"console":
+			{
+				"height": 448.0,
+				"history":
+				[
+					"wget",
+					"curl",
+					"ls",
+					"import urllib.request,os,hashlib; h = '261dd1222b4693ce6d4f85f9c827ac06' + '6d5ab8ebdd020086947172a8a1356bb6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/harddisk/root/workdisk/git/66/tbs_main/.gitmodules",
+				"/harddisk/root/workdisk/git/66/tbs_main/SubProj/TBS-CommonBaseModule/.gitmodules",
+				"/harddisk/root/workdisk/git/WeCarGame/wegameframework/src/main/java/com/tencent/wegameframework/engine/SmttServiceCommon.java",
+				"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_66/tbs_main/SubProj/VideoSdkInterface/SubProj/TbsVideoSdk/src/com/tencent/mtt/video/export/IX5VideoPlayer.java",
+				"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_66/tbs_main/SubProj/TBS-CommonBaseModule/build_common.xml",
+				"/harddisk/root/workdisk/git/blink_db_2.0/tbs_main/SubProj/TbsShell/src/com/tencent/tbs/tbsshell/WebCoreProxy.java",
+				"/home/joshliu/桌面/test1",
+				"/home/joshliu/桌面/test2",
+				"/harddisk/root/workdisk/git/weapp-package-backup/js_2.8.3/WAWebview_tbs.js",
+				"/harddisk/root/workdisk/git/weapp-package-backup/js_2.8.3/WAService.js",
+				"/harddisk/root/workdisk/git/weapp-package-backup/js_2.8.3/WAService_pret.js",
+				"/home/joshliu/桌面/1",
+				"/home/joshliu/桌面/2",
+				"/harddisk/root/workdisk/git/blink_75/src/base/time/time.h",
+				"/harddisk/root/workdisk/git/blink_75/src/out/Release/gen/components/cronet/android/cronet_jni_registration.h",
+				"/harddisk/root/workdisk/git/blink_75/src/base/third_party/libevent/http.c",
+				"/harddisk/root/workdisk/git/blink_75/src/components/cronet/android/api/src/org/chromium/net/UploadDataProvider.java",
+				"/harddisk/root/workdisk/git/blink_75/src/out/Default/gen/net/android/net_errors_java/java_cpp_template/org/chromium/net/NetError.java",
+				"/harddisk/root/workdisk/git/blink_75/src/base/message_loop/message_loop_current.h",
+				"/harddisk/root/workdisk/git/blink_75/src/npelog1",
+				"/harddisk/root/workdisk/git/blink_75/src/npelog3",
+				"/harddisk/root/workdisk/git/blink_75/src/base/BUILD.gn",
+				"/harddisk/root/workdisk/git/blink_75/src/components/cronet/BUILD.gn",
+				"/harddisk/root/workdisk/git/blink_75/src/components/cronet/android/BUILD.gn",
+				"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_57/install_tbs.sh",
+				"/harddisk/root/workdisk/git/blink_75/src/upload_lib.sh",
+				"/harddisk/root/workdisk/git/blink_75/src/net/url_request/url_request_unittest.cc",
+				"/home/joshliu/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/joshliu/.config/sublime-text-3/Packages/Chromium X-Refs/Default.sublime-keymap",
+				"/harddisk/root/workdisk/git/blink_75/src/components/cronet/android/api/src/org/chromium/net/UrlRequest.java",
+				"/harddisk/root/workdisk/git/blink_75/src/components/cronet/android/api/src/org/chromium/net/RequestFinishedInfo.java",
+				"/harddisk/root/workdisk/git/blink_75/src/components/cronet/android/api/src/org/chromium/net/UrlResponseInfo.java",
+				"/harddisk/root/workdisk/git/blink_75/src/components/cronet/android/api/src/org/chromium/net/CronetEngine.java",
+				"/harddisk/root/workdisk/git/blink_75/src/net/socket/socket_posix.cc",
+				"/harddisk/root/workdisk/git/blink_75/src/base/third_party/libevent/poll.c",
+				"/harddisk/root/workdisk/git/blink_75/src/net/third_party/quiche/src/quic/core/quic_session.cc",
+				"/harddisk/root/workdisk/git/blink_75/src/components/cronet/android/java/src/org/chromium/net/impl/VersionSafeCallbacks.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/assets/moss/preconnect_white_list.json",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/assets/moss/wxapkg/xiecheng.wxapkg",
+				"/harddisk/root/workdisk/git/moss/tbs_main/SubProj/CommonBaseModule/src/com/tencent/common/utils/IntentUtils.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/assets/moss/WAService.js",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/assets/moss/WAWebview.js",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/weapp.bak/WAService.js",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/weapp.bak/pkg/feichangzhun.wxapkg",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/mtt/weapp/preload/cache/WindowInfoCache.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_shell/shell/src/main/assets/moss/cachedPages/moss_window_info_cache.xml",
+				"/harddisk/root/workdisk/git/moss/moss/moss_aar/aar/assets/moss/cachedPages/moss_window_info_cache.xml",
+				"/harddisk/root/workdisk/git/moss/moss/moss_shell/shell/src/main/AndroidManifest.xml",
+				"/harddisk/root/workdisk/git/moss/moss/moss_adapter/adapter/src/main/java/com/tencent/moss/adapter/weappinfo/WeAppMainPackage.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/mtt/weapp/WeAppMainPackage.java",
+				"/harddisk/root/workdisk/git/moss/blink_core/lib/chromium_org/content/renderer/render_frame_impl.cc",
+				"/harddisk/root/workdisk/git/moss/tbs_main/SubProj/FullScreenFramework/src/com/tencent/mtt/fullscreenframework/utils/WebViewWrapper.java",
+				"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/TbsBaseModule/src/com/tencent/tbs/common/beacon/X5CoreBeaconUploader.java",
+				"/workdisk/git/picrust2/rep_set_723.fna",
+				"/harddisk/root/workdisk/git/moss/tmplog1",
+				"/harddisk/root/workdisk/git/moss/tmplog2",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/mtt/weapp/transfer/PageWebView.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/smtt/export/external/interfaces/ICronetClient.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/assets/weapp/common/WAService.js",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/mtt/weapp/transfer/WeixinJSCore.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/mtt/weapp/network/NetResponse.java",
+				"/harddisk/root/workdisk/git/moss/tbs_main/DebugPlugin/src/com/tencent/tbs/debug/plugin/miniqb/upgrade/Apn.java",
+				"/home/joshliu/桌面/log1_mojitianqi_no_sw_re1.txt",
+				"/home/joshliu/桌面/log_mojitianqi_wifi_sw_test2.txt",
+				"/home/joshliu/桌面/log_mojitianqi_wifi_sw_test1.txt",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/assets/moss/skill.js",
+				"/harddisk/root/workdisk/git/picrust2/rep_set_tax.fna",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/mtt/moss/WecarAccountManager.java",
+				"/harddisk/root/workdisk/git/moss/moss/wecarSpeech_Dingdang/vrlogic/src/main/java/com/tencent/vrlogic/account/WeCarAccountManager.java",
+				"/harddisk/root/workdisk/git/moss/blink_core/lib/chromium_org/content/browser/cache_storage/cache_storage_dispatcher_host.cc",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/mtt/weapp/preload/WebViewCache.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/mtt/weapp/WeappEngine.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/assets/weapp/common/WAWebview.js",
+				"/harddisk/root/workdisk/git/moss_release/moss/moss_core/src/com/tencent/mtt/external/weapp/WeAppFakeActivity.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/mtt/weapp/transfer/WeixinJSCoreForServiceWebview.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/mtt/weapp/BuildConfig.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/mtt/external/weapp/WeAppFakeActivity.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_shell/shell/src/main/assets/moss/cachedPages/ximalaya.wxapkg.mht",
+				"/harddisk/root/workdisk/git/moss/moss/moss_aar/aar/assets/moss/cachedPages/58tongcheng.wxapkg.mht",
+				"/home/joshliu/桌面/logcathot.txt",
+				"/home/joshliu/桌面/code.cc",
+				"/home/joshliu/.config/sublime-text-3/Packages/User/untitled.sublime-build",
+				"/harddisk/root/workdisk/git/blink_db_2.0/QQBrowser_X5/SubProject/PLUGIN/src/com/tencent/common/plugin/QBPluginSystem.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/weapp.bak/WAWebview.js",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/assets/moss/VUIRuntime.js",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_66/blink_core/lib/chromium_org/content/browser/tracing/tracing_controller_browsertest.cc",
+				"/harddisk/root/workdisk/git/v8/disable_inspector.patch",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/lib/chromium_org/build/config/BUILD.gn",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/tencent/WebKit/Source/core/BUILD.gn",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/v8/src/heap/spaces.cc",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/v8/src/globals.h",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/v8/src/counters.h",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/v8/include/v8version.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/build/config/android/config.gni",
+				"/harddisk/root/workdisk/git/v8/tmpp",
+				"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/v8/tmpp",
+				"/harddisk/root/workdisk/git/v8/ignition.patch",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/v8/src/builtins/builtins-array.cc",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/lib/chromium_org/cc/trees/layer_tree_host_impl.cc",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/v8/src/base/platform/platform-aix.cc",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/v8/src/memory-info.cc",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/out/TBSDefault/gen/blink/bindings/core/v8/V8MemoryInfo.cpp",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/tencent/mttperf/script/pullapk.sh",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/PLUGIN/src/com/tencent/tbs/common/MTT/UniPluginRsp.java",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/PLUGIN/src/com/tencent/tbs/common/MTT/PluginItem.java",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/assets/weapp/common/WAService.js",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/QQBrowser_core/src/com/tencent/smtt/webkit/secondcc.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/content/browser/service_worker/ccandplugin.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/QQBrowser_core/src/com/tencent/smtt/webkit/firstccc.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/weapp/goodprof.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/third_party/WebKit/Source/core/dom/Node.idl",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/smtt/sdk/IMossAidlInterface.aidl",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/weapp/transfer/prof1.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/moss/MTT/SkillCommand.java",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/weapp/utils/WeAppLogUtils.java",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/weapp/interfaces/IWeAppUIClient.java",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/weapp/interfaces/regularprof.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/weapp/transfer/prof.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/weapp/skill/WeAppSkillHandler.java",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/weapp/skill/UISkillHandler.java",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/QQBrowser_core/src/com/tencent/smtt/export/external/TbsCoreSettings.java",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/third_party/sqlite/amalgamation/sqlite3.c",
+				"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/weapp/BuildConfig.java",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/assets/moss/play.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/assets/moss/meiriyingyudiantai.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/external/weapp/dazhongdianping.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/external/weapp/login.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/weapp/IOUtils.java"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 111.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"tbs_5.0_release",
+					"tbs_5",
+					"0_release",
+					"x5tbs",
+					"mqqbrowser_media",
+					"mqqbrowser",
+					"tbs_5.0_release",
+					"tbs_5",
+					"mqqbrowser_base",
+					"data",
+					"loadDataWithBaseURL",
+					"nativeEvaluateScript",
+					"evaluateJavascript",
+					"script",
+					"str",
+					"length",
+					"jsize",
+					"ConvertJavaStringToUTF8",
+					"env",
+					"str",
+					"ConvertJavaStringToUTF8",
+					"EvaluateScript",
+					"josh",
+					"ConvertJavaStringToUTF8",
+					"josh"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": false,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 41.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 127.0
+			},
+			"output.chromium_x_refs":
+			{
+				"height": 279.0
+			},
+			"output.clang":
+			{
+				"height": 124.0
+			},
+			"output.exec":
+			{
+				"height": 180.0
+			},
+			"output.find_results":
+			{
+				"height": 286.0
+			},
+			"output.git":
+			{
+				"height": 124.0
+			},
+			"pinned_build_system": "Packages/User/c++11.sublime-build",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"aladdinview",
+						"QQBrowser_core/src/com/tencent/smtt/aladdin/AladdinView.java"
+					],
+					[
+						"aladin_view",
+						"lib/chromium_org/aladdin/aladdin_view.cc"
+					],
+					[
+						"IWebARCloudRecognitionCallback",
+						"SubProj/ARSdk/src/com/tencent/tbs/common/ar/WEBAR/IWebARCloudRecognitionCallback.java"
+					],
+					[
+						"smttserviceom",
+						"SubProj/TbsShell/src/com/tencent/tbs/tbsshell/common/SmttServiceCommon.java"
+					],
+					[
+						"webcorepro",
+						"SubProj/TbsShell/src/com/tencent/tbs/tbsshell/WebCoreProxy.java"
+					],
+					[
+						"x5corewizard",
+						"TbsSdk_for_tbs/src/com/tencent/smtt/sdk/X5CoreWizard.java"
+					],
+					[
+						"x5coreengine",
+						"TbsSdk_for_tbs/src/com/tencent/smtt/sdk/X5CoreEngine.java"
+					],
+					[
+						"webview.java",
+						"TbsSdk_for_tbs/src/com/tencent/smtt/sdk/WebView.java"
+					],
+					[
+						"x5coreinit",
+						"SubProj/TbsShell/src/com/tencent/tbs/tbsshell/common/x5core/X5CoreInit.java"
+					],
+					[
+						"TBSGamePlayerWrapper",
+						"SubProj/TbsShell/src/com/tencent/tbs/tbsshell/partner/game/TBSGamePlayerWrapper.java"
+					],
+					[
+						"tbswizar",
+						"TbsSdk_for_tbs/src/com/tencent/smtt/sdk/TbsWizard.java"
+					],
+					[
+						"x5wizar",
+						"TbsSdk_for_tbs/src/com/tencent/smtt/sdk/X5CoreWizard.java"
+					],
+					[
+						"webview",
+						"TbsSdk_for_tbs/src/com/tencent/smtt/sdk/WebView.java"
+					],
+					[
+						"smttservicecom",
+						"SubProj/TbsShell/src/com/tencent/tbs/tbsshell/common/SmttServiceCommon.java"
+					],
+					[
+						"ix5videopl",
+						"SubProj/VideoSdkInterface/src/com/tencent/mtt/video/export/IH5VideoPlayer.java"
+					],
+					[
+						"X5CoreEngine",
+						"TbsSdk_for_tbs/src/com/tencent/smtt/sdk/X5CoreEngine.java"
+					],
+					[
+						"networkq",
+						"net/nqe/network_quality_estimator.cc"
+					],
+					[
+						"networkexcim",
+						"components/cronet/android/java/src/org/chromium/net/impl/NetworkExceptionImpl.java"
+					],
+					[
+						"cronet_url_requ",
+						"components/cronet/cronet_url_request.cc"
+					],
+					[
+						"croneturlrequ.java",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetUrlRequest.java"
+					],
+					[
+						"croneturl",
+						"components/cronet/cronet_url_request.cc"
+					],
+					[
+						"net/probe.",
+						"chrome/browser/net/dns_probe_runner.h"
+					],
+					[
+						"sslclients",
+						"net/socket/ssl_client_socket_impl.cc"
+					],
+					[
+						"rsa.",
+						"third_party/boringssl/src/include/openssl/rsa.h"
+					],
+					[
+						"croneturlrequestcon",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetUrlRequestContext.java"
+					],
+					[
+						"client_certstore",
+						"net/ssl/client_cert_store.h"
+					],
+					[
+						"httpnetwork",
+						"net/http/http_network_transaction.cc"
+					],
+					[
+						"croneturlcontext",
+						"components/cronet/cronet_url_request_context.cc"
+					],
+					[
+						"dns_resolvmana",
+						"net/dns/host_resolver_manager.cc"
+					],
+					[
+						"time.h",
+						"base/time/time.h"
+					],
+					[
+						"FilePath.h",
+						"base/files/file_path.h"
+					],
+					[
+						"netlogfileob",
+						"net/log/file_net_log_observer.cc"
+					],
+					[
+						"FileNetLogObserver",
+						"net/log/file_net_log_observer.cc"
+					],
+					[
+						"cronet_url_reada",
+						"components/cronet/android/cronet_url_request_context_adapter.cc"
+					],
+					[
+						"croneturlrecon",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetUrlRequestContext.java"
+					],
+					[
+						"cronetengine",
+						"components/cronet/android/api/src/org/chromium/net/CronetEngine.java"
+					],
+					[
+						"cronet_jni_registration.h",
+						"out/Release/gen/components/cronet/android/cronet_jni_registration.h"
+					],
+					[
+						"CronetUrlRequestContext_jni.h",
+						"out/Release/gen/components/cronet/android/cronet_jni_headers/cronet/jni/CronetUrlRequestContext_jni.h"
+					],
+					[
+						"cronet_url_request",
+						"components/cronet/cronet_url_request_context.h"
+					],
+					[
+						"cronet_urlrequconte",
+						"components/cronet/android/cronet_url_request_context_adapter.cc"
+					],
+					[
+						"cronetli",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetLibraryLoader.java"
+					],
+					[
+						"cronet_url",
+						"components/cronet/android/cronet_url_request_adapter.cc"
+					],
+					[
+						"networkchan",
+						"net/android/java/src/org/chromium/net/NetworkChangeNotifier.java"
+					],
+					[
+						"networkchang",
+						"net/android/java/src/org/chromium/net/NetworkChangeNotifier.java"
+					],
+					[
+						"requestfinishinfo",
+						"components/cronet/android/java/src/org/chromium/net/impl/RequestFinishedInfoImpl.java"
+					],
+					[
+						"throttlemana",
+						"net/base/network_throttle_manager_impl.cc"
+					],
+					[
+						"url_request",
+						"net/url_request/url_request.cc"
+					],
+					[
+						"android/config.h",
+						"base/third_party/libevent/android/config.h"
+					],
+					[
+						"http.c",
+						"base/third_party/libevent/http.c"
+					],
+					[
+						"socketpos",
+						"net/socket/socket_posix.cc"
+					],
+					[
+						"log.h",
+						"base/third_party/libevent/log.h"
+					],
+					[
+						"httpcache.c",
+						"net/http/http_cache.cc"
+					],
+					[
+						"cronet_jni",
+						"components/cronet/android/cronet_jni.cc"
+					],
+					[
+						"socketposi",
+						"net/socket/socket_posix.cc"
+					],
+					[
+						"cronetuploadda",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetUploadDataStream.java"
+					],
+					[
+						"croneturlreques",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetUrlRequest.java"
+					],
+					[
+						"croneturlrequest",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetUrlRequest.java"
+					],
+					[
+						"experimentcron",
+						"components/cronet/android/api/src/org/chromium/net/ExperimentalCronetEngine.java"
+					],
+					[
+						"experimenurlreq",
+						"components/cronet/android/api/src/org/chromium/net/ExperimentalUrlRequest.java"
+					],
+					[
+						"UploadDataProvider.java",
+						"components/cronet/android/api/src/org/chromium/net/UploadDataProviders.java"
+					],
+					[
+						"document.h",
+						"third_party/blink/renderer/core/dom/document.h"
+					],
+					[
+						"croneturlrequecon",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetUrlRequestContext.java"
+					],
+					[
+						"experimentcrone",
+						"components/cronet/android/api/src/org/chromium/net/ExperimentalCronetEngine.java"
+					],
+					[
+						"urlrequest.java",
+						"components/cronet/android/api/src/org/chromium/net/UrlRequest.java"
+					],
+					[
+						"logging.",
+						"base/logging.h"
+					],
+					[
+						"ciphersuite",
+						"net/ssl/ssl_cipher_suite_names.cc"
+					],
+					[
+						"sslconnec",
+						"net/socket/ssl_connect_job.cc"
+					],
+					[
+						"sslclientsocketim",
+						"net/socket/ssl_client_socket_impl.cc"
+					],
+					[
+						"ssl_clientsocket",
+						"net/socket/ssl_client_socket_impl.cc"
+					],
+					[
+						"handshakeclient",
+						"third_party/boringssl/src/ssl/handshake_client.cc"
+					],
+					[
+						"ssl_lib",
+						"third_party/boringssl/src/ssl/ssl_lib.cc"
+					],
+					[
+						"socket_posi",
+						"net/socket/socket_posix.cc"
+					],
+					[
+						"spdysession",
+						"net/spdy/spdy_session.cc"
+					],
+					[
+						"spdy_stream",
+						"net/spdy/spdy_stream.cc"
+					],
+					[
+						"httpnetworktran",
+						"net/http/http_network_transaction.cc"
+					],
+					[
+						"net_error_list.h",
+						"net/base/net_error_list.h"
+					],
+					[
+						"net_error.h",
+						"net/base/net_errors.h"
+					],
+					[
+						"safe_strerror.h",
+						"base/posix/safe_strerror.h"
+					],
+					[
+						"httpstreampar",
+						"net/http/http_stream_parser.cc"
+					],
+					[
+						"timer",
+						"base/timer/timer.h"
+					],
+					[
+						"httptransa",
+						"net/http/http_network_transaction.cc"
+					],
+					[
+						"http_serverpromana",
+						"net/http/http_server_properties_manager.cc"
+					],
+					[
+						"net_err_pos",
+						"net/base/net_errors_posix.cc"
+					],
+					[
+						"net_error",
+						"net/base/net_errors.cc"
+					],
+					[
+						"http_networ_tran",
+						"net/http/http_network_transaction.cc"
+					],
+					[
+						"socket_po",
+						"net/socket/socket_posix.cc"
+					],
+					[
+						"tcpsocket",
+						"net/socket/tcp_socket_posix.cc"
+					],
+					[
+						"clientsockethandle",
+						"net/socket/client_socket_handle.cc"
+					],
+					[
+						"cronet/build",
+						"components/cronet/BUILD.gn"
+					],
+					[
+						"engine.cc",
+						"components/cronet/native/engine.cc"
+					],
+					[
+						"render_frame_im",
+						"content/renderer/render_frame_impl.h"
+					],
+					[
+						"network_ques",
+						"net/nqe/network_quality_estimator.cc"
+					],
+					[
+						"cronet_urlcontextada",
+						"components/cronet/android/cronet_url_request_context_adapter.cc"
+					],
+					[
+						"croneturlre.java",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetUrlRequest.java"
+					],
+					[
+						"urlthrottlemana",
+						"net/url_request/url_request_throttler_manager.cc"
+					],
+					[
+						"networkchangno.c",
+						"net/android/network_change_notifier_android.cc"
+					],
+					[
+						"network_chan",
+						"net/base/network_change_notifier.cc"
+					],
+					[
+						"tcp_socket_po",
+						"net/socket/tcp_socket_posix.cc"
+					],
+					[
+						"stacktrace.h",
+						"base/debug/stack_trace.h"
+					],
+					[
+						"croneturlrequ",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetUrlRequestContext.java"
+					],
+					[
+						"netlog",
+						"net/log/net_log.cc"
+					],
+					[
+						"netlog.c",
+						"net/log/net_log.cc"
+					],
+					[
+						"tcpsocketpo",
+						"net/socket/tcp_socket_posix.cc"
+					],
+					[
+						"clientsockethan",
+						"net/socket/client_socket_handle.cc"
+					],
+					[
+						"socketposix",
+						"net/socket/socket_posix.cc"
+					],
+					[
+						"url_requ",
+						"net/url_request/url_request.cc"
+					],
+					[
+						"urlrequestcontext.c",
+						"net/url_request/url_request_context.cc"
+					],
+					[
+						"network_change_notifier.h",
+						"net/base/network_change_notifier.h"
+					],
+					[
+						"cronet_urlreques",
+						"components/cronet/cronet_url_request.cc"
+					],
+					[
+						"croneturlrequcon",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetUrlRequestContext.java"
+					],
+					[
+						"croneturl_request",
+						"components/cronet/cronet_url_request_context.cc"
+					],
+					[
+						"experimentcroneteng",
+						"components/cronet/android/api/src/org/chromium/net/ExperimentalCronetEngine.java"
+					],
+					[
+						"SocketPosix",
+						"net/socket/socket_posix.cc"
+					],
+					[
+						"socketclienthandl",
+						"net/socket/client_socket_handle.cc"
+					],
+					[
+						"tcpsocketpox",
+						"net/socket/tcp_socket_posix.cc"
+					],
+					[
+						"croneturl.java",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetUrlRequest.java"
+					],
+					[
+						"croneturl_con",
+						"components/cronet/android/cronet_url_request_context_adapter.h"
+					],
+					[
+						"NetworkChangeNotifier",
+						"net/android/java/src/org/chromium/net/NetworkChangeNotifier.java"
+					],
+					[
+						"preconnect",
+						"chrome/browser/predictors/preconnect_manager.cc"
+					],
+					[
+						"ConnectJob",
+						"net/socket/connect_job.cc"
+					],
+					[
+						"cronet_url_request_context",
+						"components/cronet/cronet_url_request_context.cc"
+					],
+					[
+						"cronet/android/BUILD.gn",
+						"components/cronet/android/BUILD.gn"
+					],
+					[
+						"rules.gni",
+						"build/config/android/rules.gni"
+					],
+					[
+						"internal_rules.gni",
+						"build/config/android/internal_rules.gni"
+					],
+					[
+						"histogram",
+						"base/metrics/histogram.h"
+					],
+					[
+						"cronet_urlconte",
+						"components/cronet/cronet_url_request_context.cc"
+					],
+					[
+						"cronetbuilder",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetEngineBuilderImpl.java"
+					],
+					[
+						"cronet_buildflags.h",
+						"out/Cronet/gen/components/cronet/cronet_buildflags.h"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_57/blink57.sublime-project"
+					],
+					[
+						"dev",
+						"/ssd_workdisk/svn/inspector/inspector_standalone_x5DevTools/devtools_dev.sublime-project"
+					],
+					[
+						"x5dev",
+						"/ssd_workdisk/svn/inspector/inspector_standalone_x5DevTools/devtools_dev.sublime-project"
+					],
+					[
+						"clean",
+						"/ssd_workdisk/svn/cleancode/trunk/cleantrunk.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 592.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 356.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"final_lo",
+						"final_log_path_\tabc"
+					],
+					[
+						"histo",
+						"histogram\t(http_network_transaction.cc)"
+					],
+					[
+						"socket_f",
+						"socket_fd_\tabc"
+					],
+					[
+						"stack_tr",
+						"stack_trace.h"
+					],
+					[
+						"event_log",
+						"event_set_log_callback"
+					],
+					[
+						"NetL",
+						"NetLogWithSource\t(http_cache_transaction.cc)"
+					],
+					[
+						"CronetURL",
+						"CronetURLRequestContextAdapter\tabc"
+					],
+					[
+						"network_changed_ob",
+						"network_changed_observer_list_\tabc"
+					],
+					[
+						"OnNetworkC",
+						"OnNetworkChanged\tabc"
+					],
+					[
+						"NetworQ",
+						"NetworkQualityEstimator\tabc"
+					],
+					[
+						"NQEstima",
+						"NetworkQualityEstimator\tabc"
+					],
+					[
+						"CronetConte",
+						"CronetURLRequestContext"
+					],
+					[
+						"CroUCon",
+						"CronetURLRequestContext"
+					],
+					[
+						"ANDROID_LOG",
+						"ANDROID_LOG_ERROR"
+					],
+					[
+						"Syste",
+						"System.currentTimeMillis\t(WatchDog.java)"
+					],
+					[
+						"DE",
+						"DEBUG\t(WordSegmentClient.java)"
+					],
+					[
+						"Weapp",
+						"WeAppTask"
+					],
+					[
+						"COMMON_CAC",
+						"COMMON_CACHE_NAME"
+					],
+					[
+						"constru",
+						"construction"
+					],
+					[
+						"networ",
+						"networkResponse"
+					],
+					[
+						"string",
+						"stringify"
+					],
+					[
+						"isBind",
+						"isBinderAlive"
+					],
+					[
+						"mMo",
+						"mMossService"
+					],
+					[
+						"mMoss",
+						"mMossService\t(MossDispatcher.java)"
+					],
+					[
+						"netwo",
+						"networkResponse"
+					],
+					[
+						"WeApp",
+						"WeAppTrace"
+					],
+					[
+						"enct",
+						"encryptedData"
+					],
+					[
+						"getBase",
+						"getBaseCarInfo"
+					],
+					[
+						"getBsae",
+						"getBaseCarInfo"
+					],
+					[
+						"equ",
+						"equal_range"
+					],
+					[
+						"size",
+						"size_t"
+					],
+					[
+						"unor",
+						"unordered_map"
+					],
+					[
+						"iter",
+						"iterator"
+					],
+					[
+						"clean",
+						"clean_map"
+					],
+					[
+						"beg",
+						"begin"
+					],
+					[
+						"empal",
+						"emplace_back"
+					],
+					[
+						"auth",
+						"authorize"
+					],
+					[
+						"pri",
+						"private"
+					],
+					[
+						"Appen",
+						"AppendSwitch"
+					],
+					[
+						"tool",
+						"toolchain"
+					],
+					[
+						"CompileUn",
+						"CompileUnboundInternal"
+					],
+					[
+						"V8Con",
+						"V8ConsoleAPIType"
+					],
+					[
+						"iso",
+						"isolate_"
+					],
+					[
+						"g_zone",
+						"g_v8_zone_memory_size_"
+					],
+					[
+						"v8_",
+						"g_v8_zone_memory_count_"
+					],
+					[
+						"g_v",
+						"g_v8_memory_count_"
+					],
+					[
+						"g_vzone",
+						"g_v8_zone_memory_size_"
+					],
+					[
+						"RTI",
+						"RenderThreadImpl"
+					],
+					[
+						"Tencent",
+						"TencentAwContent"
+					],
+					[
+						"webcontent",
+						"web_contents_impl.h"
+					],
+					[
+						"bro",
+						"browser_view_renderer_"
+					],
+					[
+						"Sche",
+						"ScheduledTasks"
+					],
+					[
+						"rast",
+						"raster_source_"
+					],
+					[
+						"visi",
+						"visible"
+					],
+					[
+						"layer",
+						"layer_id_"
+					],
+					[
+						"content_s",
+						"contents_scale_"
+					],
+					[
+						"Ras",
+						"RasterTaskImpl"
+					],
+					[
+						"process",
+						"processes"
+					],
+					[
+						"ximalaya",
+						"ximalaya.wxapkg"
+					],
+					[
+						"WeAP",
+						"WeAppTrace\t(WeappEngine.java)"
+					],
+					[
+						"getWeb",
+						"getWebViewID"
+					],
+					[
+						"contain",
+						"containInvisibleNode"
+					],
+					[
+						"nex",
+						"nextNode"
+					],
+					[
+						"cu",
+						"currentNode"
+					],
+					[
+						"scroll",
+						"scrollTop"
+					],
+					[
+						"ty",
+						"typeof"
+					],
+					[
+						"ele",
+						"element"
+					],
+					[
+						"navi",
+						"navigateTo"
+					],
+					[
+						"getStr",
+						"getStrParam"
+					],
+					[
+						"Xima",
+						"XimaAudioControllerNode"
+					],
+					[
+						"paren",
+						"parentNode"
+					],
+					[
+						"vN",
+						"vNodeList"
+					],
+					[
+						"cons",
+						"constructor"
+					],
+					[
+						"WeAppengin",
+						"WeappEngine"
+					],
+					[
+						"wx-video-contro",
+						"wx-video-control-button"
+					],
+					[
+						"target",
+						"targetNode"
+					],
+					[
+						"current",
+						"currentTimeMillis"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"func",
+						"function"
+					],
+					[
+						"tar",
+						"targetNode"
+					],
+					[
+						"Tbs",
+						"TbsProjectPath\t(build_properties.xml)"
+					],
+					[
+						"bool",
+						"boolean"
+					],
+					[
+						"User",
+						"UserDataManager"
+					],
+					[
+						"isnightmo",
+						"isNightModeEnabled"
+					],
+					[
+						"isNightmo",
+						"isNightModeEnabled"
+					],
+					[
+						"isV",
+						"isVisible\t(Page.h)"
+					],
+					[
+						"isLoc",
+						"isLocalFrame\t(WebExtension.cpp)"
+					],
+					[
+						"TECNENT",
+						"TENCENT_CHANGES\t(WebExtension.cpp)"
+					],
+					[
+						"logg",
+						"logging.h\t(WebExtension.cpp)"
+					],
+					[
+						"TE",
+						"TENCENT_CHANGES\t(WebExtension.cpp)"
+					],
+					[
+						"Recei",
+						"ReceiveTraceChunk"
+					],
+					[
+						"ENABLE_",
+						"ENABLE_TENCENT\t(WebExtension.cpp)"
+					],
+					[
+						"IPC_",
+						"IPC_MESSAGE_ROUTED2"
+					],
+					[
+						"contents_t",
+						"content_top_offset"
+					],
+					[
+						"capture_",
+						"capture_every_nth_frame_\t(page_handler.cc)"
+					],
+					[
+						"firs",
+						"firstStack"
+					],
+					[
+						"secon",
+						"second\t(page_handler.cc)"
+					],
+					[
+						"Text",
+						"TextureArg"
+					],
+					[
+						"getText",
+						"getTexture"
+					],
+					[
+						"getTe",
+						"getTextureSource"
+					],
+					[
+						"m_text",
+						"m_textures"
+					],
+					[
+						"m_tex",
+						"m_textures"
+					],
+					[
+						"kw",
+						"kWatchedBoolStates"
+					],
+					[
+						"V8E",
+						"V8WebGLRenderingContextConstants"
+					],
+					[
+						"siz",
+						"size_t"
+					],
+					[
+						"webglrend",
+						"WebGLRenderbuffer"
+					],
+					[
+						"val",
+						"validateObject"
+					],
+					[
+						"renderbu",
+						"renderbuffer"
+					],
+					[
+						"m_rend",
+						"m_renderbuffers"
+					],
+					[
+						"renderbuf",
+						"renderbuffer"
+					],
+					[
+						"Append",
+						"Append"
+					],
+					[
+						"getshad",
+						"getShaderSources"
+					],
+					[
+						"kwat",
+						"kWatchedUnsignedStates"
+					],
+					[
+						"kwa",
+						"kWatchedUnsignedStates"
+					],
+					[
+						"Gc3",
+						"GC3D_UNPACK_PREMULTIPLY_ALPHA_WEBGL"
+					],
+					[
+						"GC3D",
+						"GC3D_UNPACK_FLIP_Y_WEBGL"
+					],
+					[
+						"getun",
+						"getUnsignedIntParameter"
+					],
+					[
+						"getbo",
+						"getBooleanParameter"
+					],
+					[
+						"getBo",
+						"getBooleanStates"
+					],
+					[
+						"AppendS",
+						"AppendStrings"
+					],
+					[
+						"stateTra",
+						"stateTracker().toggle"
+					],
+					[
+						"programU",
+						"programUsageCounter().reset"
+					],
+					[
+						"vie",
+						"viewport\t(ContentViewCore.java)"
+					],
+					[
+						"m_ble",
+						"m_blendFuncSFactor"
+					],
+					[
+						"m_blen",
+						"m_blendFuncDFactor"
+					],
+					[
+						"m_program",
+						"m_programsMap"
+					],
+					[
+						"ov",
+						"overrides\t(ContentViewCore.java)"
+					],
+					[
+						"startac",
+						"startAccessibilityIfNecessary"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "lib/chromium_org/aladdin/aladdin_view.cc",
+					"settings":
+					{
+						"buffer_size": 29710,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/harddisk/root/workdisk/git/66/tbs_main/githooks/set_hooks.sh",
+					"settings":
+					{
+						"buffer_size": 1863,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "lib/chromium_org/aladdin/v8_value_converter.cc",
+					"settings":
+					{
+						"buffer_size": 20345,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "QQBrowser_core/src/com/tencent/smtt/aladdin/AladdinView.java",
+					"settings":
+					{
+						"buffer_size": 23935,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "lib/chromium_org/base/android/jni_string.cc",
+					"settings":
+					{
+						"buffer_size": 3990,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 184.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"git log cu",
+						"Git: Log Current File"
+					],
+					[
+						"git check",
+						"Git: Checkout Current File"
+					],
+					[
+						"git diff cu",
+						"Git: Diff Current File"
+					],
+					[
+						"git dif",
+						"Git: Diff All Files"
+					],
+					[
+						"git diffal",
+						"Git: Diff All Files"
+					],
+					[
+						"git dif c",
+						"Git: Diff Current File"
+					],
+					[
+						"git difc",
+						"Git: Diff Current File"
+					],
+					[
+						"git diff all",
+						"Git: Diff All Files"
+					],
+					[
+						"git diffall",
+						"Git: Diff All Files"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"intsa",
+						"Package Control: Install Package"
+					],
+					[
+						"git instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"git show",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git c",
+						"Git: Checkout Current File"
+					],
+					[
+						"git diff",
+						"Git: Diff Current File (Ignore Whitespace)"
+					],
+					[
+						"git diff al",
+						"Git: Diff All Files"
+					],
+					[
+						"git checkou",
+						"Git: Checkout Current File"
+					],
+					[
+						"git add ",
+						"Git: Add Current File"
+					],
+					[
+						"git diffa",
+						"Git: Diff All Files"
+					],
+					[
+						"git add cu",
+						"Git: Add Current File"
+					],
+					[
+						"git log",
+						"Git: Log Current File"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						"git blame",
+						"Git: Blame"
+					],
+					[
+						"git ",
+						"Git: Gitk"
+					],
+					[
+						"git d",
+						"Git: Diff All Files"
+					],
+					[
+						"git diffc",
+						"Git: Diff Current File"
+					],
+					[
+						"git checkout",
+						"Git: Checkout Current File"
+					],
+					[
+						"git diffcu",
+						"Git: Diff Current File"
+					],
+					[
+						"git di",
+						"Git: Diff All Files"
+					],
+					[
+						"git blam",
+						"Git: Blame"
+					],
+					[
+						"git log ",
+						"Git: Log Current File"
+					],
+					[
+						"git diff cue",
+						"Git: Diff Current File"
+					],
+					[
+						"git log c",
+						"Git: Log Current File"
+					],
+					[
+						"git add  cu",
+						"Git: Add Current File"
+					],
+					[
+						"git version",
+						"Git: Show Previous Version of Current File"
+					],
+					[
+						"gitcheck",
+						"Git: Checkout Current File"
+					],
+					[
+						"git shos",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git statu",
+						"Git: Status"
+					],
+					[
+						"git lo",
+						"Git: Log Current File"
+					],
+					[
+						"adbl",
+						"ADB: Launch"
+					],
+					[
+						"git checkout ",
+						"Git: Checkout Current File"
+					],
+					[
+						"gi tdiff cu",
+						"Git: Diff Current File"
+					],
+					[
+						"adb",
+						"ADB: Launch"
+					],
+					[
+						"git diff ",
+						"Git: Diff All Files"
+					],
+					[
+						"show",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git hash",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git diff cur",
+						"Git: Diff Current File"
+					],
+					[
+						"git l",
+						"Git: Log All"
+					],
+					[
+						"showhas",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git show ",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git show has",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git checkou ",
+						"Git: Checkout Current File"
+					],
+					[
+						"adb ",
+						"ADB: Launch"
+					],
+					[
+						"git stag",
+						"Git: Diff Staged Files"
+					],
+					[
+						"git ch",
+						"Git: Checkout Current File"
+					],
+					[
+						"git dif cu",
+						"Git: Diff Current File"
+					],
+					[
+						"gi t diff cu",
+						"Git: Diff Tool Current File"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"adblo",
+						"Dart: Set Default User Browser"
+					],
+					[
+						"git diff sta",
+						"Git: Diff Staged Files"
+					],
+					[
+						"git diff stat",
+						"Git: Diff Staged Files (Ignore Whitespace)"
+					],
+					[
+						"ad",
+						"ADB: Launch"
+					],
+					[
+						"git sta",
+						"Git: Diff Staged Files"
+					],
+					[
+						"git addc",
+						"Git: Add Current File"
+					],
+					[
+						"git diff cure",
+						"Git: Diff Current File"
+					],
+					[
+						"git addcu",
+						"Git: Add Current File"
+					],
+					[
+						"git df",
+						"Git: Diff All Files"
+					],
+					[
+						"git diff curre",
+						"Git: Diff Current File"
+					],
+					[
+						"git current",
+						"Git: Show Previous Version of Current File"
+					],
+					[
+						"abb",
+						"Set Syntax: Android Debug Bridge"
+					],
+					[
+						"git stae",
+						"Git: Diff Staged Files"
+					],
+					[
+						"staged",
+						"Git: Diff Staged Files"
+					],
+					[
+						"git add sk",
+						"Git: Add Selected Hunk"
+					],
+					[
+						"git diff st",
+						"Git: Diff Staged Files"
+					],
+					[
+						"gitadd",
+						"Git: Add..."
+					],
+					[
+						"a",
+						"ADB: Launch"
+					],
+					[
+						"git commit cu",
+						"Git: Quick Commit (current file)"
+					],
+					[
+						"git  log ",
+						"Git: Log Current File"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"diable",
+						"Package Control: Disable Package"
+					],
+					[
+						"git s",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git has",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"list p",
+						"Package Control: List Packages"
+					],
+					[
+						"gitshow",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"gitshow ",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git log r",
+						"Git: Log Current File"
+					],
+					[
+						"git commit ",
+						"Git: Commit"
+					],
+					[
+						"git quic log",
+						"Git: Quick Log Current File"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"git logcu",
+						"Git: Log Current File"
+					],
+					[
+						"git commi",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git showcom",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git showco",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git logc",
+						"Git: Log Current File"
+					],
+					[
+						"gitcommitb",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git commiy",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insl",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Disable Package"
+					],
+					[
+						":f",
+						":$ - EOF"
+					],
+					[
+						"keybi",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"ket",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						":4",
+						"Set Syntax: camlp4"
+					],
+					[
+						":0",
+						":0 - BOF"
+					],
+					[
+						"ke",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"wor",
+						"WordHighlight: Toggle Enabled"
+					],
+					[
+						"cscop",
+						"Cscope: Look up functions calling this function"
+					],
+					[
+						"listp",
+						"Package Control: List Packages"
+					],
+					[
+						"terminal",
+						"Preferences: Terminal Key Bindings – Default"
+					],
+					[
+						"",
+						":$ - EOF"
+					],
+					[
+						"packagecontins",
+						"Package Control: Install Package"
+					],
+					[
+						"control",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 488.0
+			},
+			"console":
+			{
+				"height": 448.0,
+				"history":
+				[
+					"wget",
+					"curl",
+					"ls",
+					"import urllib.request,os,hashlib; h = '261dd1222b4693ce6d4f85f9c827ac06' + '6d5ab8ebdd020086947172a8a1356bb6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_66/blink_core",
+				"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_66/blink_core/lib",
+				"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_66/blink_core/lib/chromium_org",
+				"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_66/blink_core/lib/chromium_org/aladdin",
+				"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_66/blink_core/QQBrowser_core",
+				"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_66/blink_core/QQBrowser_core/src",
+				"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_66/blink_core/QQBrowser_core/src/com",
+				"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_66/blink_core/QQBrowser_core/src/com/tencent",
+				"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_66/blink_core/QQBrowser_core/src/com/tencent/smtt",
+				"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_66/blink_core/QQBrowser_core/src/com/tencent/smtt/aladdin"
+			],
+			"file_history":
+			[
+				"/harddisk/root/workdisk/git/66/tbs_main/.gitmodules",
+				"/harddisk/root/workdisk/git/66/tbs_main/SubProj/TBS-CommonBaseModule/.gitmodules",
+				"/harddisk/root/workdisk/git/WeCarGame/wegameframework/src/main/java/com/tencent/wegameframework/engine/SmttServiceCommon.java",
+				"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_66/tbs_main/SubProj/VideoSdkInterface/SubProj/TbsVideoSdk/src/com/tencent/mtt/video/export/IX5VideoPlayer.java",
+				"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_66/tbs_main/SubProj/TBS-CommonBaseModule/build_common.xml",
+				"/harddisk/root/workdisk/git/blink_db_2.0/tbs_main/SubProj/TbsShell/src/com/tencent/tbs/tbsshell/WebCoreProxy.java",
+				"/home/joshliu/桌面/test1",
+				"/home/joshliu/桌面/test2",
+				"/harddisk/root/workdisk/git/weapp-package-backup/js_2.8.3/WAWebview_tbs.js",
+				"/harddisk/root/workdisk/git/weapp-package-backup/js_2.8.3/WAService.js",
+				"/harddisk/root/workdisk/git/weapp-package-backup/js_2.8.3/WAService_pret.js",
+				"/home/joshliu/桌面/1",
+				"/home/joshliu/桌面/2",
+				"/harddisk/root/workdisk/git/blink_75/src/base/time/time.h",
+				"/harddisk/root/workdisk/git/blink_75/src/out/Release/gen/components/cronet/android/cronet_jni_registration.h",
+				"/harddisk/root/workdisk/git/blink_75/src/base/third_party/libevent/http.c",
+				"/harddisk/root/workdisk/git/blink_75/src/components/cronet/android/api/src/org/chromium/net/UploadDataProvider.java",
+				"/harddisk/root/workdisk/git/blink_75/src/out/Default/gen/net/android/net_errors_java/java_cpp_template/org/chromium/net/NetError.java",
+				"/harddisk/root/workdisk/git/blink_75/src/base/message_loop/message_loop_current.h",
+				"/harddisk/root/workdisk/git/blink_75/src/npelog1",
+				"/harddisk/root/workdisk/git/blink_75/src/npelog3",
+				"/harddisk/root/workdisk/git/blink_75/src/base/BUILD.gn",
+				"/harddisk/root/workdisk/git/blink_75/src/components/cronet/BUILD.gn",
+				"/harddisk/root/workdisk/git/blink_75/src/components/cronet/android/BUILD.gn",
+				"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_57/install_tbs.sh",
+				"/harddisk/root/workdisk/git/blink_75/src/upload_lib.sh",
+				"/harddisk/root/workdisk/git/blink_75/src/net/url_request/url_request_unittest.cc",
+				"/home/joshliu/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/joshliu/.config/sublime-text-3/Packages/Chromium X-Refs/Default.sublime-keymap",
+				"/harddisk/root/workdisk/git/blink_75/src/components/cronet/android/api/src/org/chromium/net/UrlRequest.java",
+				"/harddisk/root/workdisk/git/blink_75/src/components/cronet/android/api/src/org/chromium/net/RequestFinishedInfo.java",
+				"/harddisk/root/workdisk/git/blink_75/src/components/cronet/android/api/src/org/chromium/net/UrlResponseInfo.java",
+				"/harddisk/root/workdisk/git/blink_75/src/components/cronet/android/api/src/org/chromium/net/CronetEngine.java",
+				"/harddisk/root/workdisk/git/blink_75/src/net/socket/socket_posix.cc",
+				"/harddisk/root/workdisk/git/blink_75/src/base/third_party/libevent/poll.c",
+				"/harddisk/root/workdisk/git/blink_75/src/net/third_party/quiche/src/quic/core/quic_session.cc",
+				"/harddisk/root/workdisk/git/blink_75/src/components/cronet/android/java/src/org/chromium/net/impl/VersionSafeCallbacks.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/assets/moss/preconnect_white_list.json",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/assets/moss/wxapkg/xiecheng.wxapkg",
+				"/harddisk/root/workdisk/git/moss/tbs_main/SubProj/CommonBaseModule/src/com/tencent/common/utils/IntentUtils.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/assets/moss/WAService.js",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/assets/moss/WAWebview.js",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/weapp.bak/WAService.js",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/weapp.bak/pkg/feichangzhun.wxapkg",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/mtt/weapp/preload/cache/WindowInfoCache.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_shell/shell/src/main/assets/moss/cachedPages/moss_window_info_cache.xml",
+				"/harddisk/root/workdisk/git/moss/moss/moss_aar/aar/assets/moss/cachedPages/moss_window_info_cache.xml",
+				"/harddisk/root/workdisk/git/moss/moss/moss_shell/shell/src/main/AndroidManifest.xml",
+				"/harddisk/root/workdisk/git/moss/moss/moss_adapter/adapter/src/main/java/com/tencent/moss/adapter/weappinfo/WeAppMainPackage.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/mtt/weapp/WeAppMainPackage.java",
+				"/harddisk/root/workdisk/git/moss/blink_core/lib/chromium_org/content/renderer/render_frame_impl.cc",
+				"/harddisk/root/workdisk/git/moss/tbs_main/SubProj/FullScreenFramework/src/com/tencent/mtt/fullscreenframework/utils/WebViewWrapper.java",
+				"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/TbsBaseModule/src/com/tencent/tbs/common/beacon/X5CoreBeaconUploader.java",
+				"/workdisk/git/picrust2/rep_set_723.fna",
+				"/harddisk/root/workdisk/git/moss/tmplog1",
+				"/harddisk/root/workdisk/git/moss/tmplog2",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/mtt/weapp/transfer/PageWebView.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/smtt/export/external/interfaces/ICronetClient.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/assets/weapp/common/WAService.js",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/mtt/weapp/transfer/WeixinJSCore.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/mtt/weapp/network/NetResponse.java",
+				"/harddisk/root/workdisk/git/moss/tbs_main/DebugPlugin/src/com/tencent/tbs/debug/plugin/miniqb/upgrade/Apn.java",
+				"/home/joshliu/桌面/log1_mojitianqi_no_sw_re1.txt",
+				"/home/joshliu/桌面/log_mojitianqi_wifi_sw_test2.txt",
+				"/home/joshliu/桌面/log_mojitianqi_wifi_sw_test1.txt",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/assets/moss/skill.js",
+				"/harddisk/root/workdisk/git/picrust2/rep_set_tax.fna",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/mtt/moss/WecarAccountManager.java",
+				"/harddisk/root/workdisk/git/moss/moss/wecarSpeech_Dingdang/vrlogic/src/main/java/com/tencent/vrlogic/account/WeCarAccountManager.java",
+				"/harddisk/root/workdisk/git/moss/blink_core/lib/chromium_org/content/browser/cache_storage/cache_storage_dispatcher_host.cc",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/mtt/weapp/preload/WebViewCache.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/mtt/weapp/WeappEngine.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/assets/weapp/common/WAWebview.js",
+				"/harddisk/root/workdisk/git/moss_release/moss/moss_core/src/com/tencent/mtt/external/weapp/WeAppFakeActivity.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/mtt/weapp/transfer/WeixinJSCoreForServiceWebview.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/mtt/weapp/BuildConfig.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/src/com/tencent/mtt/external/weapp/WeAppFakeActivity.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_shell/shell/src/main/assets/moss/cachedPages/ximalaya.wxapkg.mht",
+				"/harddisk/root/workdisk/git/moss/moss/moss_aar/aar/assets/moss/cachedPages/58tongcheng.wxapkg.mht",
+				"/home/joshliu/桌面/logcathot.txt",
+				"/home/joshliu/桌面/code.cc",
+				"/home/joshliu/.config/sublime-text-3/Packages/User/untitled.sublime-build",
+				"/harddisk/root/workdisk/git/blink_db_2.0/QQBrowser_X5/SubProject/PLUGIN/src/com/tencent/common/plugin/QBPluginSystem.java",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/weapp.bak/WAWebview.js",
+				"/harddisk/root/workdisk/git/moss/moss/moss_core/assets/moss/VUIRuntime.js",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_66/blink_core/lib/chromium_org/content/browser/tracing/tracing_controller_browsertest.cc",
+				"/harddisk/root/workdisk/git/v8/disable_inspector.patch",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/lib/chromium_org/build/config/BUILD.gn",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/tencent/WebKit/Source/core/BUILD.gn",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/v8/src/heap/spaces.cc",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/v8/src/globals.h",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/v8/src/counters.h",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/v8/include/v8version.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/build/config/android/config.gni",
+				"/harddisk/root/workdisk/git/v8/tmpp",
+				"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/v8/tmpp",
+				"/harddisk/root/workdisk/git/v8/ignition.patch",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/v8/src/builtins/builtins-array.cc",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/lib/chromium_org/cc/trees/layer_tree_host_impl.cc",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/v8/src/base/platform/platform-aix.cc",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/v8/src/memory-info.cc",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/out/TBSDefault/gen/blink/bindings/core/v8/V8MemoryInfo.cpp",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/tencent/mttperf/script/pullapk.sh",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/PLUGIN/src/com/tencent/tbs/common/MTT/UniPluginRsp.java",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/PLUGIN/src/com/tencent/tbs/common/MTT/PluginItem.java",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/assets/weapp/common/WAService.js",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/QQBrowser_core/src/com/tencent/smtt/webkit/secondcc.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/content/browser/service_worker/ccandplugin.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/QQBrowser_core/src/com/tencent/smtt/webkit/firstccc.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/weapp/goodprof.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/third_party/WebKit/Source/core/dom/Node.idl",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/smtt/sdk/IMossAidlInterface.aidl",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/weapp/transfer/prof1.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/moss/MTT/SkillCommand.java",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/weapp/utils/WeAppLogUtils.java",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/weapp/interfaces/IWeAppUIClient.java",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/weapp/interfaces/regularprof.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/weapp/transfer/prof.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/weapp/skill/WeAppSkillHandler.java",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/weapp/skill/UISkillHandler.java",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/QQBrowser_core/src/com/tencent/smtt/export/external/TbsCoreSettings.java",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink_core/lib/chromium_org/third_party/sqlite/amalgamation/sqlite3.c",
+				"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/weapp/BuildConfig.java",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/assets/moss/play.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/assets/moss/meiriyingyudiantai.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/external/weapp/dazhongdianping.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/external/weapp/login.log",
+				"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/src/com/tencent/mtt/weapp/IOUtils.java"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 111.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"tbs_5.0_release",
+					"tbs_5",
+					"0_release",
+					"x5tbs",
+					"mqqbrowser_media",
+					"mqqbrowser",
+					"tbs_5.0_release",
+					"tbs_5",
+					"mqqbrowser_base",
+					"data",
+					"loadDataWithBaseURL",
+					"nativeEvaluateScript",
+					"evaluateJavascript",
+					"script",
+					"str",
+					"length",
+					"jsize",
+					"ConvertJavaStringToUTF8",
+					"env",
+					"str",
+					"ConvertJavaStringToUTF8",
+					"EvaluateScript",
+					"josh",
+					"ConvertJavaStringToUTF8",
+					"josh"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": false,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "lib/chromium_org/aladdin/aladdin_view.cc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 29710,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										21110,
+										21110
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 10551.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/harddisk/root/workdisk/git/66/tbs_main/githooks/set_hooks.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1863,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										42,
+										42
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "lib/chromium_org/aladdin/v8_value_converter.cc",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 20345,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "QQBrowser_core/src/com/tencent/smtt/aladdin/AladdinView.java",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 23935,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										11794,
+										11794
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 6540.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "lib/chromium_org/base/android/jni_string.cc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3990,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										830,
+										830
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 23.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 41.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 127.0
+			},
+			"output.chromium_x_refs":
+			{
+				"height": 279.0
+			},
+			"output.clang":
+			{
+				"height": 124.0
+			},
+			"output.exec":
+			{
+				"height": 180.0
+			},
+			"output.find_results":
+			{
+				"height": 286.0
+			},
+			"output.git":
+			{
+				"height": 124.0
+			},
+			"pinned_build_system": "Packages/User/c++11.sublime-build",
+			"position": "0,0,0,0,0,65,544,705,1052,1920,1080",
+			"project": "66_blink_core.sublime-project",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"aladdinview",
+						"QQBrowser_core/src/com/tencent/smtt/aladdin/AladdinView.java"
+					],
+					[
+						"aladin_view",
+						"lib/chromium_org/aladdin/aladdin_view.cc"
+					],
+					[
+						"IWebARCloudRecognitionCallback",
+						"SubProj/ARSdk/src/com/tencent/tbs/common/ar/WEBAR/IWebARCloudRecognitionCallback.java"
+					],
+					[
+						"smttserviceom",
+						"SubProj/TbsShell/src/com/tencent/tbs/tbsshell/common/SmttServiceCommon.java"
+					],
+					[
+						"webcorepro",
+						"SubProj/TbsShell/src/com/tencent/tbs/tbsshell/WebCoreProxy.java"
+					],
+					[
+						"x5corewizard",
+						"TbsSdk_for_tbs/src/com/tencent/smtt/sdk/X5CoreWizard.java"
+					],
+					[
+						"x5coreengine",
+						"TbsSdk_for_tbs/src/com/tencent/smtt/sdk/X5CoreEngine.java"
+					],
+					[
+						"webview.java",
+						"TbsSdk_for_tbs/src/com/tencent/smtt/sdk/WebView.java"
+					],
+					[
+						"x5coreinit",
+						"SubProj/TbsShell/src/com/tencent/tbs/tbsshell/common/x5core/X5CoreInit.java"
+					],
+					[
+						"TBSGamePlayerWrapper",
+						"SubProj/TbsShell/src/com/tencent/tbs/tbsshell/partner/game/TBSGamePlayerWrapper.java"
+					],
+					[
+						"tbswizar",
+						"TbsSdk_for_tbs/src/com/tencent/smtt/sdk/TbsWizard.java"
+					],
+					[
+						"x5wizar",
+						"TbsSdk_for_tbs/src/com/tencent/smtt/sdk/X5CoreWizard.java"
+					],
+					[
+						"webview",
+						"TbsSdk_for_tbs/src/com/tencent/smtt/sdk/WebView.java"
+					],
+					[
+						"smttservicecom",
+						"SubProj/TbsShell/src/com/tencent/tbs/tbsshell/common/SmttServiceCommon.java"
+					],
+					[
+						"ix5videopl",
+						"SubProj/VideoSdkInterface/src/com/tencent/mtt/video/export/IH5VideoPlayer.java"
+					],
+					[
+						"X5CoreEngine",
+						"TbsSdk_for_tbs/src/com/tencent/smtt/sdk/X5CoreEngine.java"
+					],
+					[
+						"networkq",
+						"net/nqe/network_quality_estimator.cc"
+					],
+					[
+						"networkexcim",
+						"components/cronet/android/java/src/org/chromium/net/impl/NetworkExceptionImpl.java"
+					],
+					[
+						"cronet_url_requ",
+						"components/cronet/cronet_url_request.cc"
+					],
+					[
+						"croneturlrequ.java",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetUrlRequest.java"
+					],
+					[
+						"croneturl",
+						"components/cronet/cronet_url_request.cc"
+					],
+					[
+						"net/probe.",
+						"chrome/browser/net/dns_probe_runner.h"
+					],
+					[
+						"sslclients",
+						"net/socket/ssl_client_socket_impl.cc"
+					],
+					[
+						"rsa.",
+						"third_party/boringssl/src/include/openssl/rsa.h"
+					],
+					[
+						"croneturlrequestcon",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetUrlRequestContext.java"
+					],
+					[
+						"client_certstore",
+						"net/ssl/client_cert_store.h"
+					],
+					[
+						"httpnetwork",
+						"net/http/http_network_transaction.cc"
+					],
+					[
+						"croneturlcontext",
+						"components/cronet/cronet_url_request_context.cc"
+					],
+					[
+						"dns_resolvmana",
+						"net/dns/host_resolver_manager.cc"
+					],
+					[
+						"time.h",
+						"base/time/time.h"
+					],
+					[
+						"FilePath.h",
+						"base/files/file_path.h"
+					],
+					[
+						"netlogfileob",
+						"net/log/file_net_log_observer.cc"
+					],
+					[
+						"FileNetLogObserver",
+						"net/log/file_net_log_observer.cc"
+					],
+					[
+						"cronet_url_reada",
+						"components/cronet/android/cronet_url_request_context_adapter.cc"
+					],
+					[
+						"croneturlrecon",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetUrlRequestContext.java"
+					],
+					[
+						"cronetengine",
+						"components/cronet/android/api/src/org/chromium/net/CronetEngine.java"
+					],
+					[
+						"cronet_jni_registration.h",
+						"out/Release/gen/components/cronet/android/cronet_jni_registration.h"
+					],
+					[
+						"CronetUrlRequestContext_jni.h",
+						"out/Release/gen/components/cronet/android/cronet_jni_headers/cronet/jni/CronetUrlRequestContext_jni.h"
+					],
+					[
+						"cronet_url_request",
+						"components/cronet/cronet_url_request_context.h"
+					],
+					[
+						"cronet_urlrequconte",
+						"components/cronet/android/cronet_url_request_context_adapter.cc"
+					],
+					[
+						"cronetli",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetLibraryLoader.java"
+					],
+					[
+						"cronet_url",
+						"components/cronet/android/cronet_url_request_adapter.cc"
+					],
+					[
+						"networkchan",
+						"net/android/java/src/org/chromium/net/NetworkChangeNotifier.java"
+					],
+					[
+						"networkchang",
+						"net/android/java/src/org/chromium/net/NetworkChangeNotifier.java"
+					],
+					[
+						"requestfinishinfo",
+						"components/cronet/android/java/src/org/chromium/net/impl/RequestFinishedInfoImpl.java"
+					],
+					[
+						"throttlemana",
+						"net/base/network_throttle_manager_impl.cc"
+					],
+					[
+						"url_request",
+						"net/url_request/url_request.cc"
+					],
+					[
+						"android/config.h",
+						"base/third_party/libevent/android/config.h"
+					],
+					[
+						"http.c",
+						"base/third_party/libevent/http.c"
+					],
+					[
+						"socketpos",
+						"net/socket/socket_posix.cc"
+					],
+					[
+						"log.h",
+						"base/third_party/libevent/log.h"
+					],
+					[
+						"httpcache.c",
+						"net/http/http_cache.cc"
+					],
+					[
+						"cronet_jni",
+						"components/cronet/android/cronet_jni.cc"
+					],
+					[
+						"socketposi",
+						"net/socket/socket_posix.cc"
+					],
+					[
+						"cronetuploadda",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetUploadDataStream.java"
+					],
+					[
+						"croneturlreques",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetUrlRequest.java"
+					],
+					[
+						"croneturlrequest",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetUrlRequest.java"
+					],
+					[
+						"experimentcron",
+						"components/cronet/android/api/src/org/chromium/net/ExperimentalCronetEngine.java"
+					],
+					[
+						"experimenurlreq",
+						"components/cronet/android/api/src/org/chromium/net/ExperimentalUrlRequest.java"
+					],
+					[
+						"UploadDataProvider.java",
+						"components/cronet/android/api/src/org/chromium/net/UploadDataProviders.java"
+					],
+					[
+						"document.h",
+						"third_party/blink/renderer/core/dom/document.h"
+					],
+					[
+						"croneturlrequecon",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetUrlRequestContext.java"
+					],
+					[
+						"experimentcrone",
+						"components/cronet/android/api/src/org/chromium/net/ExperimentalCronetEngine.java"
+					],
+					[
+						"urlrequest.java",
+						"components/cronet/android/api/src/org/chromium/net/UrlRequest.java"
+					],
+					[
+						"logging.",
+						"base/logging.h"
+					],
+					[
+						"ciphersuite",
+						"net/ssl/ssl_cipher_suite_names.cc"
+					],
+					[
+						"sslconnec",
+						"net/socket/ssl_connect_job.cc"
+					],
+					[
+						"sslclientsocketim",
+						"net/socket/ssl_client_socket_impl.cc"
+					],
+					[
+						"ssl_clientsocket",
+						"net/socket/ssl_client_socket_impl.cc"
+					],
+					[
+						"handshakeclient",
+						"third_party/boringssl/src/ssl/handshake_client.cc"
+					],
+					[
+						"ssl_lib",
+						"third_party/boringssl/src/ssl/ssl_lib.cc"
+					],
+					[
+						"socket_posi",
+						"net/socket/socket_posix.cc"
+					],
+					[
+						"spdysession",
+						"net/spdy/spdy_session.cc"
+					],
+					[
+						"spdy_stream",
+						"net/spdy/spdy_stream.cc"
+					],
+					[
+						"httpnetworktran",
+						"net/http/http_network_transaction.cc"
+					],
+					[
+						"net_error_list.h",
+						"net/base/net_error_list.h"
+					],
+					[
+						"net_error.h",
+						"net/base/net_errors.h"
+					],
+					[
+						"safe_strerror.h",
+						"base/posix/safe_strerror.h"
+					],
+					[
+						"httpstreampar",
+						"net/http/http_stream_parser.cc"
+					],
+					[
+						"timer",
+						"base/timer/timer.h"
+					],
+					[
+						"httptransa",
+						"net/http/http_network_transaction.cc"
+					],
+					[
+						"http_serverpromana",
+						"net/http/http_server_properties_manager.cc"
+					],
+					[
+						"net_err_pos",
+						"net/base/net_errors_posix.cc"
+					],
+					[
+						"net_error",
+						"net/base/net_errors.cc"
+					],
+					[
+						"http_networ_tran",
+						"net/http/http_network_transaction.cc"
+					],
+					[
+						"socket_po",
+						"net/socket/socket_posix.cc"
+					],
+					[
+						"tcpsocket",
+						"net/socket/tcp_socket_posix.cc"
+					],
+					[
+						"clientsockethandle",
+						"net/socket/client_socket_handle.cc"
+					],
+					[
+						"cronet/build",
+						"components/cronet/BUILD.gn"
+					],
+					[
+						"engine.cc",
+						"components/cronet/native/engine.cc"
+					],
+					[
+						"render_frame_im",
+						"content/renderer/render_frame_impl.h"
+					],
+					[
+						"network_ques",
+						"net/nqe/network_quality_estimator.cc"
+					],
+					[
+						"cronet_urlcontextada",
+						"components/cronet/android/cronet_url_request_context_adapter.cc"
+					],
+					[
+						"croneturlre.java",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetUrlRequest.java"
+					],
+					[
+						"urlthrottlemana",
+						"net/url_request/url_request_throttler_manager.cc"
+					],
+					[
+						"networkchangno.c",
+						"net/android/network_change_notifier_android.cc"
+					],
+					[
+						"network_chan",
+						"net/base/network_change_notifier.cc"
+					],
+					[
+						"tcp_socket_po",
+						"net/socket/tcp_socket_posix.cc"
+					],
+					[
+						"stacktrace.h",
+						"base/debug/stack_trace.h"
+					],
+					[
+						"croneturlrequ",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetUrlRequestContext.java"
+					],
+					[
+						"netlog",
+						"net/log/net_log.cc"
+					],
+					[
+						"netlog.c",
+						"net/log/net_log.cc"
+					],
+					[
+						"tcpsocketpo",
+						"net/socket/tcp_socket_posix.cc"
+					],
+					[
+						"clientsockethan",
+						"net/socket/client_socket_handle.cc"
+					],
+					[
+						"socketposix",
+						"net/socket/socket_posix.cc"
+					],
+					[
+						"url_requ",
+						"net/url_request/url_request.cc"
+					],
+					[
+						"urlrequestcontext.c",
+						"net/url_request/url_request_context.cc"
+					],
+					[
+						"network_change_notifier.h",
+						"net/base/network_change_notifier.h"
+					],
+					[
+						"cronet_urlreques",
+						"components/cronet/cronet_url_request.cc"
+					],
+					[
+						"croneturlrequcon",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetUrlRequestContext.java"
+					],
+					[
+						"croneturl_request",
+						"components/cronet/cronet_url_request_context.cc"
+					],
+					[
+						"experimentcroneteng",
+						"components/cronet/android/api/src/org/chromium/net/ExperimentalCronetEngine.java"
+					],
+					[
+						"SocketPosix",
+						"net/socket/socket_posix.cc"
+					],
+					[
+						"socketclienthandl",
+						"net/socket/client_socket_handle.cc"
+					],
+					[
+						"tcpsocketpox",
+						"net/socket/tcp_socket_posix.cc"
+					],
+					[
+						"croneturl.java",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetUrlRequest.java"
+					],
+					[
+						"croneturl_con",
+						"components/cronet/android/cronet_url_request_context_adapter.h"
+					],
+					[
+						"NetworkChangeNotifier",
+						"net/android/java/src/org/chromium/net/NetworkChangeNotifier.java"
+					],
+					[
+						"preconnect",
+						"chrome/browser/predictors/preconnect_manager.cc"
+					],
+					[
+						"ConnectJob",
+						"net/socket/connect_job.cc"
+					],
+					[
+						"cronet_url_request_context",
+						"components/cronet/cronet_url_request_context.cc"
+					],
+					[
+						"cronet/android/BUILD.gn",
+						"components/cronet/android/BUILD.gn"
+					],
+					[
+						"rules.gni",
+						"build/config/android/rules.gni"
+					],
+					[
+						"internal_rules.gni",
+						"build/config/android/internal_rules.gni"
+					],
+					[
+						"histogram",
+						"base/metrics/histogram.h"
+					],
+					[
+						"cronet_urlconte",
+						"components/cronet/cronet_url_request_context.cc"
+					],
+					[
+						"cronetbuilder",
+						"components/cronet/android/java/src/org/chromium/net/impl/CronetEngineBuilderImpl.java"
+					],
+					[
+						"cronet_buildflags.h",
+						"out/Cronet/gen/components/cronet/cronet_buildflags.h"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_57/blink57.sublime-project"
+					],
+					[
+						"dev",
+						"/ssd_workdisk/svn/inspector/inspector_standalone_x5DevTools/devtools_dev.sublime-project"
+					],
+					[
+						"x5dev",
+						"/ssd_workdisk/svn/inspector/inspector_standalone_x5DevTools/devtools_dev.sublime-project"
+					],
+					[
+						"clean",
+						"/ssd_workdisk/svn/cleancode/trunk/cleantrunk.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 592.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 356.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 483,
+			"workspace_name": "/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_66/blink_core/66_blink_core.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_66/blink_core/66_blink_core.sublime-workspace",
+			"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_66/tbs_main/66_tbs_main.sublime-workspace",
+			"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_57/blink57.sublime-workspace",
+			"/harddisk/root/workdisk/git/blink_75/blink75.sublime-workspace",
+			"/workdisk/git/moss/moss.sublime-workspace",
+			"/workdisk/git/moss/blink_core/moss_blink_core.sublime-workspace",
+			"/workdisk/git/flutter/flutter.sublime-workspace",
+			"/harddisk/root/workdisk/git/moss_refactor/moss_refactor.sublime-workspace",
+			"/harddisk/root/workdisk/git/57cleanblink/blink_db_for_tbs_for_chromium_57/57clean.sublime-workspace",
+			"/workdisk/git/dom-distiller/dom-distiller.sublime-workspace",
+			"/harddisk/root/workdisk/git/carqb_demo/QQBrowser_X5/carqb.sublime-workspace",
+			"/workdisk/git/blink_db_for_tbs_for_chromium_57/blink57.sublime-workspace",
+			"/workdisk/git/blink_db_for_tbs_for_chromium_57/tbs_main/SubProj/WebOS/dom-distiller.sublime-workspace",
+			"/harddisk/root/workdisk/git/react-native/rn.sublime-workspace",
+			"/harddisk/root/workdisk/git/vue/vue.sublime-workspace",
+			"/workdisk/git/TBSStudioServer/TBSStudioServer.sublime-workspace",
+			"/workdisk/git/blink_db_2.0/blink37.sublime-workspace",
+			"/harddisk/root/workdisk/git/WEAPP/weapp_framework.sublime-workspace",
+			"/harddisk/root/workdisk/git/tapp_framework/tapp_fw.sublime-workspace",
+			"/harddisk/root/workdisk/git/weapp_demo/weapp_demo.sublime-workspace",
+			"/workdisk/git/weapp_demo/blink_core/weapp_core.sublime-workspace",
+			"/workdisk/git/flutter_repo/flutter_repo.sublime-workspace",
+			"/harddisk/root/workdisk/git/tapp_framework/tapp/engine/flutter/shell/platform/android/weapp_demo.sublime-workspace",
+			"/harddisk/root/workdisk/git/blink_db_for_tbs_for_chromium_57/QQBrowser_X5/QB_UI.sublime-workspace",
+			"/harddisk/ssd/git/blink_db_for_tbs/blink53.sublime-workspace",
+			"/workdisk/git/tbs-insight/tbs-insight.sublime-workspace",
+			"/workdisk/git/tbs-devtools-inspector/inspector.sublime-workspace",
+			"/ssd/git/blink_db_for_tbs/blink53.sublime-workspace",
+			"/workdisk/git/linux-inspector/linux-inspector/nwjs-sdk-v0.13.0-rc1-linux-x64/nwinsight.sublime-workspace",
+			"/workdisk/git/linux-inspector/linux-inspector/nwjs-sdk-v0.13.0-rc1-linux-x64/app/insight/devinsight.sublime-workspace",
+			"/workdisk/git/linux-inspector/devinsight.sublime-workspace",
+			"/harddisk/root/workdisk/git/ShaderEditorExtension/shadereditor.sublime-workspace"
+		]
+	}
+}

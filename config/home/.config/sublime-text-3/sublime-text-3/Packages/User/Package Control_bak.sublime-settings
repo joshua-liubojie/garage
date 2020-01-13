@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Alternate VIM Navigation",
+		"Anaconda",
+		"Cscope",
+		"CTags",
+		"ExtendedTabSwitcher",
+		"Git",
+		"GitCommitMsg",
+		"Material Theme",
+		"Open Search Result",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"SublimeREPL",
+		"Terminal",
+		"WordHighlight"
+	]
+}

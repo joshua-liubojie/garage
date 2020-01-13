@@ -1,0 +1,53 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"detect_slow_plugins": false,
+	"downloader_precedence":
+	{
+		"linux":
+		[
+			"curl",
+			"wget",
+			"urllib"
+		],
+		"osx":
+		[
+			"urllib"
+		],
+		"windows":
+		[
+			"wininet"
+		]
+	},
+	"file_exclude_patterns":
+	[
+		"*.so",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.jar",
+		"*.txt",
+		"*.png",
+		"*.ninja",
+		".tags",
+		"cscope*"
+	],
+	"folder_exclude_patterns":
+	[
+		"polish_dir"
+	],
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"ChromiumXRefs",
+		"EasyClangComplete",
+		"Material Theme",
+		"Open Search Result",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck"
+	],
+	"open_files_in_new_window": true,
+	"theme": "Adaptive.sublime-theme",
+	"vintage_ctrl_keys": false,
+	"vintage_start_in_command_mode": true,
+	"vintage_use_clipboard": false
+}

@@ -1,0 +1,1 @@
+{"version": "6.1.1", "dependencies": [], "platforms": ["osx", "linux", "windows"], "sublime_text": ">=3070", "description": ":boom: Robust C/C++ code completion for Sublime Text 3", "url": "https://niosus.github.io/EasyClangComplete"}
